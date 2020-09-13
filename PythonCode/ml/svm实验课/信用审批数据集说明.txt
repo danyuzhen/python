@@ -1,0 +1,20 @@
+信用审批数据集说明：
+此文件涉及信用卡申请。所有属性名称和值都已更改为无意义的符号，以保护数据的机密性。 
+这个数据集很有意思，因为有很好的混合属性 - 连续的，名义上的，具有少量的值，而名义上的数值较大。还有一些缺失的值。
+
+A1:	b, a. 
+A2:	continuous. 
+A3:	continuous. 
+A4:	u, y, l, t. 
+A5:	g, p, gg. 
+A6:	c, d, cc, i, j, k, m, r, q, w, x, e, aa, ff. 
+A7:	v, h, bb, j, n, z, dd, ff, o. 
+A8:	continuous. 
+A9:	t, f. 
+A10:	t, f. 
+A11:	continuous. 
+A12:	t, f. 
+A13:	g, p, s. 
+A14:	continuous. 
+A15:	continuous. 
+A16: 	+,- (class attribute)

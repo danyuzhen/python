@@ -1,0 +1,14 @@
+该数据集最初来自美国国家糖尿病、消化和肾脏疾病研究所。该数据集的目的是基于数据集中包含的某些诊断测量值，诊断性地预测患者是否患有糖尿病（是为1否为0）。
+在从较大的数据库中选择这些实例时，存在一些限制。特别要指出的是，这里所有的病人都是至少21岁的印度皮马族女性。
+该数据集中有8个属性及1个类别。
+
+（0）序号
+（1）怀孕次数 --- Number of times pregnant
+（2）2小时口服葡萄糖耐量试验中的血浆葡萄糖浓度 --- Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+（3）舒张压（毫米汞柱）--- Diastolic blood pressure (mm Hg)
+（4）2小时血清胰岛素（mu U/ml) --- 2-Hour serum insulin (mu U/ml)
+（5）三头肌皮褶厚度 (毫米) --- Triceps skin fold thickness (mm)
+（6）体重指数（BMI）--- Body mass index (weight in kg/(height in m)^2)
+（7）糖尿病血系功能 --- Diabetes pedigree function
+（8）年龄（年）--- Age (years)
+（9）类别：过去5年内是否有糖尿病 --- Class variable (0 or 1)

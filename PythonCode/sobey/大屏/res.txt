@@ -1,0 +1,7119 @@
+{
+  "code": 200,
+  "extensionResults": [
+    {
+      "key": "facet",
+      "values": [
+        {
+          "facetFieldName": "topic",
+          "facetLayer": 1,
+          "facetShowName": "分类",
+          "facetValue": [
+            {
+              "count": 1133,
+              "showValue": "政治",
+              "value": "政治"
+            },
+            {
+              "count": 829,
+              "showValue": "经济",
+              "value": "经济"
+            },
+            {
+              "count": 680,
+              "showValue": "城乡建设与环境",
+              "value": "城乡建设与环境"
+            },
+            {
+              "count": 635,
+              "showValue": "军事",
+              "value": "军事"
+            },
+            {
+              "count": 551,
+              "showValue": "文化教育哲学宗教",
+              "value": "文化教育哲学宗教"
+            },
+            {
+              "count": 395,
+              "showValue": "文学艺术",
+              "value": "文学艺术"
+            },
+            {
+              "count": 394,
+              "showValue": "社会生活与社会问题",
+              "value": "社会生活与社会问题"
+            },
+            {
+              "count": 284,
+              "showValue": "娱乐休闲",
+              "value": "娱乐休闲"
+            },
+            {
+              "count": 276,
+              "showValue": "体育",
+              "value": "体育"
+            },
+            {
+              "count": 251,
+              "showValue": "医药卫生",
+              "value": "医药卫生"
+            },
+            {
+              "count": 138,
+              "showValue": "科学技术",
+              "value": "科学技术"
+            },
+            {
+              "count": 90,
+              "showValue": "休闲娱乐",
+              "value": "休闲娱乐"
+            },
+            {
+              "count": 67,
+              "showValue": "历史地理",
+              "value": "历史地理"
+            },
+            {
+              "count": 61,
+              "showValue": "法律",
+              "value": "法律"
+            }
+          ]
+        },
+        {
+          "facetFieldName": "eventpeople",
+          "facetLayer": 1,
+          "facetShowName": "新闻人物",
+          "facetValue": [
+            {
+              "count": 218,
+              "showValue": "习近平",
+              "value": "习近平"
+            },
+            {
+              "count": 19,
+              "showValue": "李克强",
+              "value": "李克强"
+            },
+            {
+              "count": 13,
+              "showValue": "巴音朝鲁(省委书记)",
+              "value": "巴音朝鲁(省委书记)"
+            },
+            {
+              "count": 13,
+              "showValue": "景俊海(省委副书记省长)",
+              "value": "景俊海(省委副书记省长)"
+            },
+            {
+              "count": 12,
+              "showValue": "李克强(国务院总理)",
+              "value": "李克强(国务院总理)"
+            },
+            {
+              "count": 11,
+              "showValue": "景俊海(省长)",
+              "value": "景俊海(省长)"
+            },
+            {
+              "count": 11,
+              "showValue": "特朗普",
+              "value": "特朗普"
+            },
+            {
+              "count": 10,
+              "showValue": "张志军",
+              "value": "张志军"
+            },
+            {
+              "count": 10,
+              "showValue": "张玮(记者)",
+              "value": "张玮(记者)"
+            },
+            {
+              "count": 10,
+              "showValue": "李希",
+              "value": "李希"
+            },
+            {
+              "count": 10,
+              "showValue": "赵桂兰",
+              "value": "赵桂兰"
+            },
+            {
+              "count": 9,
+              "showValue": "孙钟",
+              "value": "孙钟"
+            },
+            {
+              "count": 9,
+              "showValue": "李希(省委书记)",
+              "value": "李希(省委书记)"
+            },
+            {
+              "count": 8,
+              "showValue": "习近平(国家主席)",
+              "value": "习近平(国家主席)"
+            },
+            {
+              "count": 8,
+              "showValue": "俞正声",
+              "value": "俞正声"
+            },
+            {
+              "count": 8,
+              "showValue": "王威(央视记者)",
+              "value": "王威(央视记者)"
+            },
+            {
+              "count": 8,
+              "showValue": "郑英民",
+              "value": "郑英民"
+            },
+            {
+              "count": 8,
+              "showValue": "马克思",
+              "value": "马克思"
+            },
+            {
+              "count": 7,
+              "showValue": "刘珺(央视记者)",
+              "value": "刘珺(央视记者)"
+            },
+            {
+              "count": 7,
+              "showValue": "张珂(广东台记者)",
+              "value": "张珂(广东台记者)"
+            },
+            {
+              "count": 7,
+              "showValue": "杨光",
+              "value": "杨光"
+            },
+            {
+              "count": 7,
+              "showValue": "林新",
+              "value": "林新"
+            },
+            {
+              "count": 7,
+              "showValue": "袁媛(记者)",
+              "value": "袁媛(记者)"
+            },
+            {
+              "count": 7,
+              "showValue": "默克尔(德国总理)",
+              "value": "默克尔(德国总理)"
+            },
+            {
+              "count": 6,
+              "showValue": "吴玮",
+              "value": "吴玮"
+            },
+            {
+              "count": 6,
+              "showValue": "姚辉",
+              "value": "姚辉"
+            },
+            {
+              "count": 6,
+              "showValue": "媛媛(广东台记者)",
+              "value": "媛媛(广东台记者)"
+            },
+            {
+              "count": 6,
+              "showValue": "常青",
+              "value": "常青"
+            },
+            {
+              "count": 6,
+              "showValue": "徐继胜",
+              "value": "徐继胜"
+            },
+            {
+              "count": 6,
+              "showValue": "普京",
+              "value": "普京"
+            },
+            {
+              "count": 6,
+              "showValue": "朴槿惠",
+              "value": "朴槿惠"
+            },
+            {
+              "count": 6,
+              "showValue": "李永雷",
+              "value": "李永雷"
+            },
+            {
+              "count": 6,
+              "showValue": "潘基文",
+              "value": "潘基文"
+            },
+            {
+              "count": 6,
+              "showValue": "特朗",
+              "value": "特朗"
+            },
+            {
+              "count": 6,
+              "showValue": "特朗普(美国总统)",
+              "value": "特朗普(美国总统)"
+            },
+            {
+              "count": 6,
+              "showValue": "王之后(省政府秘书长)",
+              "value": "王之后(省政府秘书长)"
+            },
+            {
+              "count": 6,
+              "showValue": "王伟中",
+              "value": "王伟中"
+            },
+            {
+              "count": 6,
+              "showValue": "王国庆",
+              "value": "王国庆"
+            },
+            {
+              "count": 6,
+              "showValue": "王绍俭",
+              "value": "王绍俭"
+            },
+            {
+              "count": 6,
+              "showValue": "许南",
+              "value": "许南"
+            },
+            {
+              "count": 6,
+              "showValue": "赵晶",
+              "value": "赵晶"
+            },
+            {
+              "count": 6,
+              "showValue": "近平",
+              "value": "近平"
+            },
+            {
+              "count": 6,
+              "showValue": "陈晓华",
+              "value": "陈晓华"
+            },
+            {
+              "count": 6,
+              "showValue": "马兴瑞(省长)",
+              "value": "马兴瑞(省长)"
+            },
+            {
+              "count": 5,
+              "showValue": "他信",
+              "value": "他信"
+            },
+            {
+              "count": 5,
+              "showValue": "俞正声(全国政协主席)",
+              "value": "俞正声(全国政协主席)"
+            },
+            {
+              "count": 5,
+              "showValue": "刘晗",
+              "value": "刘晗"
+            },
+            {
+              "count": 5,
+              "showValue": "刘颖",
+              "value": "刘颖"
+            },
+            {
+              "count": 5,
+              "showValue": "唐建恒(广东台记者)",
+              "value": "唐建恒(广东台记者)"
+            },
+            {
+              "count": 5,
+              "showValue": "孙宝泉(记者)",
+              "value": "孙宝泉(记者)"
+            },
+            {
+              "count": 5,
+              "showValue": "崔娴娴",
+              "value": "崔娴娴"
+            },
+            {
+              "count": 5,
+              "showValue": "广磊",
+              "value": "广磊"
+            },
+            {
+              "count": 5,
+              "showValue": "张磊",
+              "value": "张磊"
+            },
+            {
+              "count": 5,
+              "showValue": "彭永林",
+              "value": "彭永林"
+            },
+            {
+              "count": 5,
+              "showValue": "曾小强(记者/广东台记者)",
+              "value": "曾小强(记者/广东台记者)"
+            },
+            {
+              "count": 5,
+              "showValue": "李东哲",
+              "value": "李东哲"
+            },
+            {
+              "count": 5,
+              "showValue": "杨洪",
+              "value": "杨洪"
+            },
+            {
+              "count": 5,
+              "showValue": "梁世华",
+              "value": "梁世华"
+            },
+            {
+              "count": 5,
+              "showValue": "特郎普",
+              "value": "特郎普"
+            },
+            {
+              "count": 5,
+              "showValue": "王大鹏",
+              "value": "王大鹏"
+            },
+            {
+              "count": 5,
+              "showValue": "王文(记者)",
+              "value": "王文(记者)"
+            },
+            {
+              "count": 5,
+              "showValue": "王秀娟(记者)",
+              "value": "王秀娟(记者)"
+            },
+            {
+              "count": 5,
+              "showValue": "王雪",
+              "value": "王雪"
+            },
+            {
+              "count": 5,
+              "showValue": "章缺",
+              "value": "章缺"
+            },
+            {
+              "count": 5,
+              "showValue": "谭守",
+              "value": "谭守"
+            },
+            {
+              "count": 5,
+              "showValue": "车秀兰(副主任)",
+              "value": "车秀兰(副主任)"
+            },
+            {
+              "count": 5,
+              "showValue": "陈扬",
+              "value": "陈扬"
+            },
+            {
+              "count": 5,
+              "showValue": "马克",
+              "value": "马克"
+            },
+            {
+              "count": 5,
+              "showValue": "黄大年",
+              "value": "黄大年"
+            },
+            {
+              "count": 4,
+              "showValue": "习近平(中共中央总书记)",
+              "value": "习近平(中共中央总书记)"
+            },
+            {
+              "count": 4,
+              "showValue": "云炳竹",
+              "value": "云炳竹"
+            },
+            {
+              "count": 4,
+              "showValue": "付刚",
+              "value": "付刚"
+            },
+            {
+              "count": 4,
+              "showValue": "刘云志(小提琴演奏家)",
+              "value": "刘云志(小提琴演奏家)"
+            },
+            {
+              "count": 4,
+              "showValue": "刘叙",
+              "value": "刘叙"
+            },
+            {
+              "count": 4,
+              "showValue": "刘家铭",
+              "value": "刘家铭"
+            },
+            {
+              "count": 4,
+              "showValue": "刘彬",
+              "value": "刘彬"
+            },
+            {
+              "count": 4,
+              "showValue": "刘毅",
+              "value": "刘毅"
+            },
+            {
+              "count": 4,
+              "showValue": "刘涛",
+              "value": "刘涛"
+            },
+            {
+              "count": 4,
+              "showValue": "刘爽爽",
+              "value": "刘爽爽"
+            },
+            {
+              "count": 4,
+              "showValue": "刘玉亮",
+              "value": "刘玉亮"
+            },
+            {
+              "count": 4,
+              "showValue": "刘胡兰",
+              "value": "刘胡兰"
+            },
+            {
+              "count": 4,
+              "showValue": "吴靖平(省委常委常务副省长)",
+              "value": "吴靖平(省委常委常务副省长)"
+            },
+            {
+              "count": 4,
+              "showValue": "告琳",
+              "value": "告琳"
+            },
+            {
+              "count": 4,
+              "showValue": "周志国",
+              "value": "周志国"
+            },
+            {
+              "count": 4,
+              "showValue": "唐建恒",
+              "value": "唐建恒"
+            },
+            {
+              "count": 4,
+              "showValue": "唐建恒(记者)",
+              "value": "唐建恒(记者)"
+            },
+            {
+              "count": 4,
+              "showValue": "姜多",
+              "value": "姜多"
+            },
+            {
+              "count": 4,
+              "showValue": "姜治莹(省领导)",
+              "value": "姜治莹(省领导)"
+            },
+            {
+              "count": 4,
+              "showValue": "孙硕",
+              "value": "孙硕"
+            },
+            {
+              "count": 4,
+              "showValue": "宋范月鸣",
+              "value": "宋范月鸣"
+            },
+            {
+              "count": 4,
+              "showValue": "岳肯一",
+              "value": "岳肯一"
+            },
+            {
+              "count": 4,
+              "showValue": "张一巍",
+              "value": "张一巍"
+            },
+            {
+              "count": 4,
+              "showValue": "张宇",
+              "value": "张宇"
+            },
+            {
+              "count": 4,
+              "showValue": "张安顺",
+              "value": "张安顺"
+            },
+            {
+              "count": 4,
+              "showValue": "张安顺(省委常委省委秘书长)",
+              "value": "张安顺(省委常委省委秘书长)"
+            },
+            {
+              "count": 4,
+              "showValue": "张弱",
+              "value": "张弱"
+            },
+            {
+              "count": 4,
+              "showValue": "张晶",
+              "value": "张晶"
+            },
+            {
+              "count": 4,
+              "showValue": "张楠(记者)",
+              "value": "张楠(记者)"
+            },
+            {
+              "count": 4,
+              "showValue": "张煜",
+              "value": "张煜"
+            },
+            {
+              "count": 4,
+              "showValue": "张璐(记者)",
+              "value": "张璐(记者)"
+            }
+          ]
+        },
+        {
+          "facetFieldName": "face",
+          "facetLayer": 1,
+          "facetShowName": "出镜人物",
+          "facetValue": [
+            {
+              "count": 76,
+              "showValue": "刚强",
+              "value": "刚强"
+            },
+            {
+              "count": 26,
+              "showValue": "习近平(国家主席)",
+              "value": "习近平(国家主席)"
+            },
+            {
+              "count": 15,
+              "showValue": "巴音朝鲁",
+              "value": "巴音朝鲁"
+            },
+            {
+              "count": 14,
+              "showValue": "景俊海",
+              "value": "景俊海"
+            },
+            {
+              "count": 14,
+              "showValue": "李希",
+              "value": "李希"
+            },
+            {
+              "count": 14,
+              "showValue": "李希(广东省委书记)",
+              "value": "李希(广东省委书记)"
+            },
+            {
+              "count": 12,
+              "showValue": "高广滨",
+              "value": "高广滨"
+            },
+            {
+              "count": 9,
+              "showValue": "国务院总理)",
+              "value": "国务院总理)"
+            },
+            {
+              "count": 9,
+              "showValue": "李克强(中共十九届中央政治局常委",
+              "value": "李克强(中共十九届中央政治局常委"
+            },
+            {
+              "count": 9,
+              "showValue": "李景浩",
+              "value": "李景浩"
+            },
+            {
+              "count": 9,
+              "showValue": "王凯",
+              "value": "王凯"
+            },
+            {
+              "count": 9,
+              "showValue": "高登·摩爾",
+              "value": "高登·摩爾"
+            },
+            {
+              "count": 8,
+              "showValue": "尼爾·馬倫·布什(中美企业家)",
+              "value": "尼爾·馬倫·布什(中美企业家)"
+            },
+            {
+              "count": 8,
+              "showValue": "汪洋(十三届政协委员)",
+              "value": "汪洋(十三届政协委员)"
+            },
+            {
+              "count": 8,
+              "showValue": "王毅",
+              "value": "王毅"
+            },
+            {
+              "count": 7,
+              "showValue": "习近平",
+              "value": "习近平"
+            },
+            {
+              "count": 7,
+              "showValue": "姜治莹",
+              "value": "姜治莹"
+            },
+            {
+              "count": 6,
+              "showValue": "康辉(江西省萍乡市城市建设投资发展公司总经理)",
+              "value": "康辉(江西省萍乡市城市建设投资发展公司总经理)"
+            },
+            {
+              "count": 6,
+              "showValue": "张安顺",
+              "value": "张安顺"
+            },
+            {
+              "count": 5,
+              "showValue": "安立佳",
+              "value": "安立佳"
+            },
+            {
+              "count": 5,
+              "showValue": "巴音朝鲁(吉林省委书记、省人大常委会主任)",
+              "value": "巴音朝鲁(吉林省委书记、省人大常委会主任)"
+            },
+            {
+              "count": 5,
+              "showValue": "柴伟(辽源市委书记)",
+              "value": "柴伟(辽源市委书记)"
+            },
+            {
+              "count": 4,
+              "showValue": "张志军",
+              "value": "张志军"
+            },
+            {
+              "count": 4,
+              "showValue": "张焕秋",
+              "value": "张焕秋"
+            },
+            {
+              "count": 4,
+              "showValue": "栗战书(十三届人大代表)",
+              "value": "栗战书(十三届人大代表)"
+            },
+            {
+              "count": 4,
+              "showValue": "郭炳聯",
+              "value": "郭炳聯"
+            },
+            {
+              "count": 3,
+              "showValue": "万鄂湘(十三届人大代表)",
+              "value": "万鄂湘(十三届人大代表)"
+            },
+            {
+              "count": 3,
+              "showValue": "刘鹤(十三届人大代表)",
+              "value": "刘鹤(十三届人大代表)"
+            },
+            {
+              "count": 3,
+              "showValue": "卢展工(十三届政协委员)",
+              "value": "卢展工(十三届政协委员)"
+            },
+            {
+              "count": 3,
+              "showValue": "张安顺(吉林省委常委、省委秘书长",
+              "value": "张安顺(吉林省委常委、省委秘书长"
+            },
+            {
+              "count": 3,
+              "showValue": "张志军(吉林省白山市委书记)",
+              "value": "张志军(吉林省白山市委书记)"
+            },
+            {
+              "count": 3,
+              "showValue": "景俊海(吉林省委副书记、省长)",
+              "value": "景俊海(吉林省委副书记、省长)"
+            },
+            {
+              "count": 3,
+              "showValue": "杜伟",
+              "value": "杜伟"
+            },
+            {
+              "count": 3,
+              "showValue": "欧阳夏丹",
+              "value": "欧阳夏丹"
+            },
+            {
+              "count": 3,
+              "showValue": "王勇(十三届政协委员)",
+              "value": "王勇(十三届政协委员)"
+            },
+            {
+              "count": 3,
+              "showValue": "王晓萍",
+              "value": "王晓萍"
+            },
+            {
+              "count": 3,
+              "showValue": "王晨(十三届人大代表)",
+              "value": "王晨(十三届人大代表)"
+            },
+            {
+              "count": 3,
+              "showValue": "省直机关工委书记)",
+              "value": "省直机关工委书记)"
+            },
+            {
+              "count": 3,
+              "showValue": "韩福春(吉林省四平市委书记)",
+              "value": "韩福春(吉林省四平市委书记)"
+            },
+            {
+              "count": 2,
+              "showValue": "侯淅珉",
+              "value": "侯淅珉"
+            },
+            {
+              "count": 2,
+              "showValue": "刘金波",
+              "value": "刘金波"
+            },
+            {
+              "count": 2,
+              "showValue": "石玉钢",
+              "value": "石玉钢"
+            },
+            {
+              "count": 2,
+              "showValue": "胡家福",
+              "value": "胡家福"
+            },
+            {
+              "count": 2,
+              "showValue": "黄坤明",
+              "value": "黄坤明"
+            },
+            {
+              "count": 1,
+              "showValue": "出境人物测试12",
+              "value": "出境人物测试12"
+            },
+            {
+              "count": 1,
+              "showValue": "唐赫",
+              "value": "唐赫"
+            },
+            {
+              "count": 1,
+              "showValue": "庞庆波",
+              "value": "庞庆波"
+            },
+            {
+              "count": 1,
+              "showValue": "王子联",
+              "value": "王子联"
+            },
+            {
+              "count": 1,
+              "showValue": "陈毅伟",
+              "value": "陈毅伟"
+            },
+            {
+              "count": 1,
+              "showValue": "陶治国",
+              "value": "陶治国"
+            },
+            {
+              "count": 1,
+              "showValue": "韩福春",
+              "value": "韩福春"
+            }
+          ]
+        },
+        {
+          "facetFieldName": "scenepeople",
+          "facetLayer": 1,
+          "facetShowName": "人物",
+          "facetValue": [
+            {
+              "count": 476,
+              "showValue": "习近平",
+              "value": "习近平"
+            },
+            {
+              "count": 56,
+              "showValue": "习近平(国家主席)",
+              "value": "习近平(国家主席)"
+            },
+            {
+              "count": 47,
+              "showValue": "景俊海",
+              "value": "景俊海"
+            },
+            {
+              "count": 40,
+              "showValue": "赵桂兰",
+              "value": "赵桂兰"
+            },
+            {
+              "count": 34,
+              "showValue": "巴音朝鲁",
+              "value": "巴音朝鲁"
+            },
+            {
+              "count": 34,
+              "showValue": "李克强",
+              "value": "李克强"
+            },
+            {
+              "count": 30,
+              "showValue": "李克强(国务院总理)",
+              "value": "李克强(国务院总理)"
+            },
+            {
+              "count": 24,
+              "showValue": "马克思",
+              "value": "马克思"
+            },
+            {
+              "count": 21,
+              "showValue": "特朗普",
+              "value": "特朗普"
+            },
+            {
+              "count": 17,
+              "showValue": "巴音朝鲁(省委书记)",
+              "value": "巴音朝鲁(省委书记)"
+            },
+            {
+              "count": 17,
+              "showValue": "王伟忠",
+              "value": "王伟忠"
+            },
+            {
+              "count": 16,
+              "showValue": "李希",
+              "value": "李希"
+            },
+            {
+              "count": 16,
+              "showValue": "近平",
+              "value": "近平"
+            },
+            {
+              "count": 15,
+              "showValue": "习近平(中共中央总书记国家主席)",
+              "value": "习近平(中共中央总书记国家主席)"
+            },
+            {
+              "count": 15,
+              "showValue": "潘基文",
+              "value": "潘基文"
+            },
+            {
+              "count": 15,
+              "showValue": "马兴瑞",
+              "value": "马兴瑞"
+            },
+            {
+              "count": 14,
+              "showValue": "景俊海(省委副书记省长)",
+              "value": "景俊海(省委副书记省长)"
+            },
+            {
+              "count": 13,
+              "showValue": "景俊海(省长)",
+              "value": "景俊海(省长)"
+            },
+            {
+              "count": 13,
+              "showValue": "李凤民",
+              "value": "李凤民"
+            },
+            {
+              "count": 12,
+              "showValue": "刘海峰",
+              "value": "刘海峰"
+            },
+            {
+              "count": 12,
+              "showValue": "张志军",
+              "value": "张志军"
+            },
+            {
+              "count": 12,
+              "showValue": "李俊",
+              "value": "李俊"
+            },
+            {
+              "count": 11,
+              "showValue": "李希(省委书记)",
+              "value": "李希(省委书记)"
+            },
+            {
+              "count": 11,
+              "showValue": "潘家辉",
+              "value": "潘家辉"
+            },
+            {
+              "count": 11,
+              "showValue": "黄大年",
+              "value": "黄大年"
+            },
+            {
+              "count": 10,
+              "showValue": "曾小强(广东台记者)",
+              "value": "曾小强(广东台记者)"
+            },
+            {
+              "count": 10,
+              "showValue": "陈雨",
+              "value": "陈雨"
+            },
+            {
+              "count": 9,
+              "showValue": "丁宁",
+              "value": "丁宁"
+            },
+            {
+              "count": 9,
+              "showValue": "唐建恒(广东台记者)",
+              "value": "唐建恒(广东台记者)"
+            },
+            {
+              "count": 9,
+              "showValue": "杨靖宇",
+              "value": "杨靖宇"
+            },
+            {
+              "count": 9,
+              "showValue": "王绍俭",
+              "value": "王绍俭"
+            },
+            {
+              "count": 8,
+              "showValue": "刘云志(小提琴演奏家)",
+              "value": "刘云志(小提琴演奏家)"
+            },
+            {
+              "count": 8,
+              "showValue": "刘胡兰",
+              "value": "刘胡兰"
+            },
+            {
+              "count": 8,
+              "showValue": "赵聪(琵琶演奏家)",
+              "value": "赵聪(琵琶演奏家)"
+            },
+            {
+              "count": 8,
+              "showValue": "陈奕威",
+              "value": "陈奕威"
+            },
+            {
+              "count": 8,
+              "showValue": "默克尔(德国总理)",
+              "value": "默克尔(德国总理)"
+            },
+            {
+              "count": 8,
+              "showValue": "齐柳(广东台记者)",
+              "value": "齐柳(广东台记者)"
+            },
+            {
+              "count": 7,
+              "showValue": "俞正声",
+              "value": "俞正声"
+            },
+            {
+              "count": 7,
+              "showValue": "李柏峰",
+              "value": "李柏峰"
+            },
+            {
+              "count": 7,
+              "showValue": "松原",
+              "value": "松原"
+            },
+            {
+              "count": 7,
+              "showValue": "特朗普(美国总统)",
+              "value": "特朗普(美国总统)"
+            },
+            {
+              "count": 7,
+              "showValue": "福林",
+              "value": "福林"
+            },
+            {
+              "count": 7,
+              "showValue": "马兴瑞(省长)",
+              "value": "马兴瑞(省长)"
+            },
+            {
+              "count": 7,
+              "showValue": "骆文智",
+              "value": "骆文智"
+            },
+            {
+              "count": 6,
+              "showValue": "习近平(中共中央总书记)",
+              "value": "习近平(中共中央总书记)"
+            },
+            {
+              "count": 6,
+              "showValue": "刘朝英",
+              "value": "刘朝英"
+            },
+            {
+              "count": 6,
+              "showValue": "华晓倩(广东台记者)",
+              "value": "华晓倩(广东台记者)"
+            },
+            {
+              "count": 6,
+              "showValue": "叶绍钧",
+              "value": "叶绍钧"
+            },
+            {
+              "count": 6,
+              "showValue": "叶贞琴",
+              "value": "叶贞琴"
+            },
+            {
+              "count": 6,
+              "showValue": "吴靖平(省委常委常务副省长)",
+              "value": "吴靖平(省委常委常务副省长)"
+            },
+            {
+              "count": 6,
+              "showValue": "媛媛(广东台记者)",
+              "value": "媛媛(广东台记者)"
+            },
+            {
+              "count": 6,
+              "showValue": "孙中山",
+              "value": "孙中山"
+            },
+            {
+              "count": 6,
+              "showValue": "崔娴娴",
+              "value": "崔娴娴"
+            },
+            {
+              "count": 6,
+              "showValue": "弗林(总统国家安全事务助理/美国前总统国家安全事务助理)",
+              "value": "弗林(总统国家安全事务助理/美国前总统国家安全事务助理)"
+            },
+            {
+              "count": 6,
+              "showValue": "张珂(广东台记者)",
+              "value": "张珂(广东台记者)"
+            },
+            {
+              "count": 6,
+              "showValue": "徐鸿波",
+              "value": "徐鸿波"
+            },
+            {
+              "count": 6,
+              "showValue": "梁志兵",
+              "value": "梁志兵"
+            },
+            {
+              "count": 6,
+              "showValue": "王国庆",
+              "value": "王国庆"
+            },
+            {
+              "count": 6,
+              "showValue": "王志厚(省政府秘书长)",
+              "value": "王志厚(省政府秘书长)"
+            },
+            {
+              "count": 6,
+              "showValue": "白音朝鲁",
+              "value": "白音朝鲁"
+            },
+            {
+              "count": 6,
+              "showValue": "金春燮",
+              "value": "金春燮"
+            },
+            {
+              "count": 6,
+              "showValue": "黄宁生",
+              "value": "黄宁生"
+            },
+            {
+              "count": 5,
+              "showValue": "习平",
+              "value": "习平"
+            },
+            {
+              "count": 5,
+              "showValue": "俞正声(全国政协主席)",
+              "value": "俞正声(全国政协主席)"
+            },
+            {
+              "count": 5,
+              "showValue": "孙尧(教育部副部长)",
+              "value": "孙尧(教育部副部长)"
+            },
+            {
+              "count": 5,
+              "showValue": "屈建军",
+              "value": "屈建军"
+            },
+            {
+              "count": 5,
+              "showValue": "张世新",
+              "value": "张世新"
+            },
+            {
+              "count": 5,
+              "showValue": "张安顺",
+              "value": "张安顺"
+            },
+            {
+              "count": 5,
+              "showValue": "张德江(全国人大常委会委员长)",
+              "value": "张德江(全国人大常委会委员长)"
+            },
+            {
+              "count": 5,
+              "showValue": "彭永林",
+              "value": "彭永林"
+            },
+            {
+              "count": 5,
+              "showValue": "政协大会新闻发言人)",
+              "value": "政协大会新闻发言人)"
+            },
+            {
+              "count": 5,
+              "showValue": "普京(俄罗斯总统)",
+              "value": "普京(俄罗斯总统)"
+            },
+            {
+              "count": 5,
+              "showValue": "曾志权",
+              "value": "曾志权"
+            },
+            {
+              "count": 5,
+              "showValue": "朴槿惠",
+              "value": "朴槿惠"
+            },
+            {
+              "count": 5,
+              "showValue": "李惠武(省政府发展研究中心巡视员)",
+              "value": "李惠武(省政府发展研究中心巡视员)"
+            },
+            {
+              "count": 5,
+              "showValue": "李玉妹(省人大常委会主任)",
+              "value": "李玉妹(省人大常委会主任)"
+            },
+            {
+              "count": 5,
+              "showValue": "杜新山(省委宣传部讲师团团长)",
+              "value": "杜新山(省委宣传部讲师团团长)"
+            },
+            {
+              "count": 5,
+              "showValue": "杨光",
+              "value": "杨光"
+            },
+            {
+              "count": 5,
+              "showValue": "梅德韦杰夫",
+              "value": "梅德韦杰夫"
+            },
+            {
+              "count": 5,
+              "showValue": "梅德韦杰夫(俄罗斯总理)",
+              "value": "梅德韦杰夫(俄罗斯总理)"
+            },
+            {
+              "count": 5,
+              "showValue": "汪洋",
+              "value": "汪洋"
+            },
+            {
+              "count": 5,
+              "showValue": "汪洋(中共中央政治局常委国务院副总理)",
+              "value": "汪洋(中共中央政治局常委国务院副总理)"
+            },
+            {
+              "count": 5,
+              "showValue": "王之后(省政府秘书长)",
+              "value": "王之后(省政府秘书长)"
+            },
+            {
+              "count": 5,
+              "showValue": "王国庆(发言人",
+              "value": "王国庆(发言人"
+            },
+            {
+              "count": 5,
+              "showValue": "王威(央视记岂/央视记者)",
+              "value": "王威(央视记岂/央视记者)"
+            },
+            {
+              "count": 5,
+              "showValue": "约翰奥查德",
+              "value": "约翰奥查德"
+            },
+            {
+              "count": 5,
+              "showValue": "罗萨达",
+              "value": "罗萨达"
+            },
+            {
+              "count": 5,
+              "showValue": "耿小龙",
+              "value": "耿小龙"
+            },
+            {
+              "count": 5,
+              "showValue": "胡家福",
+              "value": "胡家福"
+            },
+            {
+              "count": 5,
+              "showValue": "袁媛(记者)",
+              "value": "袁媛(记者)"
+            },
+            {
+              "count": 5,
+              "showValue": "谢忠岩(省财政厅厅长)",
+              "value": "谢忠岩(省财政厅厅长)"
+            },
+            {
+              "count": 5,
+              "showValue": "车秀兰(副主任)",
+              "value": "车秀兰(副主任)"
+            },
+            {
+              "count": 5,
+              "showValue": "马丁雅克(英国剑桥大学政治与国际关系资深研究员)",
+              "value": "马丁雅克(英国剑桥大学政治与国际关系资深研究员)"
+            },
+            {
+              "count": 5,
+              "showValue": "黄大家",
+              "value": "黄大家"
+            },
+            {
+              "count": 5,
+              "showValue": "默克尔",
+              "value": "默克尔"
+            },
+            {
+              "count": 4,
+              "showValue": "乐乐",
+              "value": "乐乐"
+            },
+            {
+              "count": 4,
+              "showValue": "云东石保东",
+              "value": "云东石保东"
+            },
+            {
+              "count": 4,
+              "showValue": "伊萨科夫",
+              "value": "伊萨科夫"
+            },
+            {
+              "count": 4,
+              "showValue": "伊萨科夫(吉尔吉斯斯坦总理)",
+              "value": "伊萨科夫(吉尔吉斯斯坦总理)"
+            },
+            {
+              "count": 4,
+              "showValue": "刘创力",
+              "value": "刘创力"
+            }
+          ]
+        },
+        {
+          "facetFieldName": "eventplace",
+          "facetLayer": 1,
+          "facetShowName": "相关地点",
+          "facetValue": [
+            {
+              "count": 225,
+              "showValue": "中国",
+              "value": "中国"
+            },
+            {
+              "count": 204,
+              "showValue": "广东",
+              "value": "广东"
+            },
+            {
+              "count": 102,
+              "showValue": "吉林",
+              "value": "吉林"
+            },
+            {
+              "count": 99,
+              "showValue": "深圳",
+              "value": "深圳"
+            },
+            {
+              "count": 98,
+              "showValue": "筛选过的地点词列表1",
+              "value": "筛选过的地点词列表1"
+            },
+            {
+              "count": 98,
+              "showValue": "筛选过的地点词列表2",
+              "value": "筛选过的地点词列表2"
+            },
+            {
+              "count": 87,
+              "showValue": "广州",
+              "value": "广州"
+            },
+            {
+              "count": 75,
+              "showValue": "北京",
+              "value": "北京"
+            },
+            {
+              "count": 62,
+              "showValue": "美国",
+              "value": "美国"
+            },
+            {
+              "count": 46,
+              "showValue": "长春",
+              "value": "长春"
+            },
+            {
+              "count": 35,
+              "showValue": "俄罗斯",
+              "value": "俄罗斯"
+            },
+            {
+              "count": 28,
+              "showValue": "欧洲",
+              "value": "欧洲"
+            },
+            {
+              "count": 26,
+              "showValue": "粤港澳大湾区",
+              "value": "粤港澳大湾区"
+            },
+            {
+              "count": 26,
+              "showValue": "韩国",
+              "value": "韩国"
+            },
+            {
+              "count": 20,
+              "showValue": "日本",
+              "value": "日本"
+            },
+            {
+              "count": 20,
+              "showValue": "浙江",
+              "value": "浙江"
+            },
+            {
+              "count": 20,
+              "showValue": "英国",
+              "value": "英国"
+            },
+            {
+              "count": 19,
+              "showValue": "法国",
+              "value": "法国"
+            },
+            {
+              "count": 18,
+              "showValue": "巴黎",
+              "value": "巴黎"
+            },
+            {
+              "count": 16,
+              "showValue": "上海",
+              "value": "上海"
+            },
+            {
+              "count": 16,
+              "showValue": "德国",
+              "value": "德国"
+            },
+            {
+              "count": 16,
+              "showValue": "新疆",
+              "value": "新疆"
+            },
+            {
+              "count": 15,
+              "showValue": "海南",
+              "value": "海南"
+            },
+            {
+              "count": 15,
+              "showValue": "潮州",
+              "value": "潮州"
+            },
+            {
+              "count": 15,
+              "showValue": "香港",
+              "value": "香港"
+            },
+            {
+              "count": 13,
+              "showValue": "山西",
+              "value": "山西"
+            },
+            {
+              "count": 12,
+              "showValue": "东莞",
+              "value": "东莞"
+            },
+            {
+              "count": 12,
+              "showValue": "伊朗",
+              "value": "伊朗"
+            },
+            {
+              "count": 12,
+              "showValue": "叙利亚",
+              "value": "叙利亚"
+            },
+            {
+              "count": 12,
+              "showValue": "惠州",
+              "value": "惠州"
+            },
+            {
+              "count": 12,
+              "showValue": "松原",
+              "value": "松原"
+            },
+            {
+              "count": 11,
+              "showValue": "广京",
+              "value": "广京"
+            },
+            {
+              "count": 11,
+              "showValue": "茂名",
+              "value": "茂名"
+            },
+            {
+              "count": 11,
+              "showValue": "长白山",
+              "value": "长白山"
+            },
+            {
+              "count": 10,
+              "showValue": "梅州",
+              "value": "梅州"
+            },
+            {
+              "count": 10,
+              "showValue": "珠三角",
+              "value": "珠三角"
+            },
+            {
+              "count": 9,
+              "showValue": "云南",
+              "value": "云南"
+            },
+            {
+              "count": 9,
+              "showValue": "哈萨克斯坦",
+              "value": "哈萨克斯坦"
+            },
+            {
+              "count": 9,
+              "showValue": "宜昌",
+              "value": "宜昌"
+            },
+            {
+              "count": 9,
+              "showValue": "巴基斯坦",
+              "value": "巴基斯坦"
+            },
+            {
+              "count": 9,
+              "showValue": "巴西",
+              "value": "巴西"
+            },
+            {
+              "count": 9,
+              "showValue": "延边",
+              "value": "延边"
+            },
+            {
+              "count": 9,
+              "showValue": "汕头",
+              "value": "汕头"
+            },
+            {
+              "count": 9,
+              "showValue": "江苏",
+              "value": "江苏"
+            },
+            {
+              "count": 9,
+              "showValue": "珠海",
+              "value": "珠海"
+            },
+            {
+              "count": 9,
+              "showValue": "白城",
+              "value": "白城"
+            },
+            {
+              "count": 9,
+              "showValue": "福建",
+              "value": "福建"
+            },
+            {
+              "count": 9,
+              "showValue": "辽源",
+              "value": "辽源"
+            },
+            {
+              "count": 9,
+              "showValue": "长沙",
+              "value": "长沙"
+            },
+            {
+              "count": 8,
+              "showValue": "南沙",
+              "value": "南沙"
+            },
+            {
+              "count": 8,
+              "showValue": "大马士革",
+              "value": "大马士革"
+            },
+            {
+              "count": 8,
+              "showValue": "布鲁塞尔",
+              "value": "布鲁塞尔"
+            },
+            {
+              "count": 8,
+              "showValue": "抚松",
+              "value": "抚松"
+            },
+            {
+              "count": 8,
+              "showValue": "朝鲜",
+              "value": "朝鲜"
+            },
+            {
+              "count": 8,
+              "showValue": "比利时",
+              "value": "比利时"
+            },
+            {
+              "count": 8,
+              "showValue": "江西",
+              "value": "江西"
+            },
+            {
+              "count": 8,
+              "showValue": "澳门",
+              "value": "澳门"
+            },
+            {
+              "count": 8,
+              "showValue": "索契",
+              "value": "索契"
+            },
+            {
+              "count": 8,
+              "showValue": "菲律宾",
+              "value": "菲律宾"
+            },
+            {
+              "count": 8,
+              "showValue": "长三角",
+              "value": "长三角"
+            },
+            {
+              "count": 8,
+              "showValue": "长江",
+              "value": "长江"
+            },
+            {
+              "count": 8,
+              "showValue": "韶关",
+              "value": "韶关"
+            },
+            {
+              "count": 7,
+              "showValue": "东南亚",
+              "value": "东南亚"
+            },
+            {
+              "count": 7,
+              "showValue": "佛山",
+              "value": "佛山"
+            },
+            {
+              "count": 7,
+              "showValue": "厦门",
+              "value": "厦门"
+            },
+            {
+              "count": 7,
+              "showValue": "吉安",
+              "value": "吉安"
+            },
+            {
+              "count": 7,
+              "showValue": "山西吉县",
+              "value": "山西吉县"
+            },
+            {
+              "count": 7,
+              "showValue": "巴尔米拉",
+              "value": "巴尔米拉"
+            },
+            {
+              "count": 7,
+              "showValue": "广庆",
+              "value": "广庆"
+            },
+            {
+              "count": 7,
+              "showValue": "延吉",
+              "value": "延吉"
+            },
+            {
+              "count": 7,
+              "showValue": "柏林",
+              "value": "柏林"
+            },
+            {
+              "count": 7,
+              "showValue": "武汉",
+              "value": "武汉"
+            },
+            {
+              "count": 7,
+              "showValue": "湖南",
+              "value": "湖南"
+            },
+            {
+              "count": 7,
+              "showValue": "肇庆",
+              "value": "肇庆"
+            },
+            {
+              "count": 7,
+              "showValue": "通化",
+              "value": "通化"
+            },
+            {
+              "count": 7,
+              "showValue": "重庆",
+              "value": "重庆"
+            },
+            {
+              "count": 7,
+              "showValue": "陕西",
+              "value": "陕西"
+            },
+            {
+              "count": 6,
+              "showValue": "东京",
+              "value": "东京"
+            },
+            {
+              "count": 6,
+              "showValue": "东北亚",
+              "value": "东北亚"
+            },
+            {
+              "count": 6,
+              "showValue": "中",
+              "value": "中"
+            },
+            {
+              "count": 6,
+              "showValue": "中东欧",
+              "value": "中东欧"
+            },
+            {
+              "count": 6,
+              "showValue": "中国南海",
+              "value": "中国南海"
+            },
+            {
+              "count": 6,
+              "showValue": "京津冀",
+              "value": "京津冀"
+            },
+            {
+              "count": 6,
+              "showValue": "内蒙古吉林",
+              "value": "内蒙古吉林"
+            },
+            {
+              "count": 6,
+              "showValue": "内蒙古吉林云南陕西",
+              "value": "内蒙古吉林云南陕西"
+            },
+            {
+              "count": 6,
+              "showValue": "匈牙利",
+              "value": "匈牙利"
+            },
+            {
+              "count": 6,
+              "showValue": "北京火车站",
+              "value": "北京火车站"
+            },
+            {
+              "count": 6,
+              "showValue": "南印度洋",
+              "value": "南印度洋"
+            },
+            {
+              "count": 6,
+              "showValue": "吉林省农安县开安镇万来村张家屯",
+              "value": "吉林省农安县开安镇万来村张家屯"
+            },
+            {
+              "count": 6,
+              "showValue": "天津",
+              "value": "天津"
+            },
+            {
+              "count": 6,
+              "showValue": "林芝市墨脱县",
+              "value": "林芝市墨脱县"
+            },
+            {
+              "count": 6,
+              "showValue": "江门",
+              "value": "江门"
+            },
+            {
+              "count": 6,
+              "showValue": "泰国",
+              "value": "泰国"
+            },
+            {
+              "count": 6,
+              "showValue": "清远",
+              "value": "清远"
+            },
+            {
+              "count": 6,
+              "showValue": "菲律宾首都马尼拉",
+              "value": "菲律宾首都马尼拉"
+            },
+            {
+              "count": 6,
+              "showValue": "西藏",
+              "value": "西藏"
+            },
+            {
+              "count": 6,
+              "showValue": "阿富汗",
+              "value": "阿富汗"
+            },
+            {
+              "count": 6,
+              "showValue": "阿联酋",
+              "value": "阿联酋"
+            },
+            {
+              "count": 6,
+              "showValue": "首尔",
+              "value": "首尔"
+            },
+            {
+              "count": 5,
+              "showValue": "中国吉林省",
+              "value": "中国吉林省"
+            }
+          ]
+        },
+        {
+          "facetFieldName": "sceneplace",
+          "facetLayer": 1,
+          "facetShowName": "地点",
+          "facetValue": [
+            {
+              "count": 542,
+              "showValue": "筛选过的地点词列表1",
+              "value": "筛选过的地点词列表1"
+            },
+            {
+              "count": 542,
+              "showValue": "筛选过的地点词列表2",
+              "value": "筛选过的地点词列表2"
+            },
+            {
+              "count": 175,
+              "showValue": "深圳",
+              "value": "深圳"
+            },
+            {
+              "count": 161,
+              "showValue": "吉林",
+              "value": "吉林"
+            },
+            {
+              "count": 138,
+              "showValue": "广东",
+              "value": "广东"
+            },
+            {
+              "count": 121,
+              "showValue": "中国",
+              "value": "中国"
+            },
+            {
+              "count": 75,
+              "showValue": "吉林省",
+              "value": "吉林省"
+            },
+            {
+              "count": 60,
+              "showValue": "长春",
+              "value": "长春"
+            },
+            {
+              "count": 39,
+              "showValue": "广州",
+              "value": "广州"
+            },
+            {
+              "count": 28,
+              "showValue": "粤港澳大湾区",
+              "value": "粤港澳大湾区"
+            },
+            {
+              "count": 26,
+              "showValue": "北京",
+              "value": "北京"
+            },
+            {
+              "count": 25,
+              "showValue": "广东省",
+              "value": "广东省"
+            },
+            {
+              "count": 23,
+              "showValue": "中华人民共和国",
+              "value": "中华人民共和国"
+            },
+            {
+              "count": 21,
+              "showValue": "美国",
+              "value": "美国"
+            },
+            {
+              "count": 19,
+              "showValue": "厦门",
+              "value": "厦门"
+            },
+            {
+              "count": 19,
+              "showValue": "深圳市",
+              "value": "深圳市"
+            },
+            {
+              "count": 18,
+              "showValue": "俄罗斯",
+              "value": "俄罗斯"
+            },
+            {
+              "count": 17,
+              "showValue": "韶关",
+              "value": "韶关"
+            },
+            {
+              "count": 16,
+              "showValue": "惠州",
+              "value": "惠州"
+            },
+            {
+              "count": 16,
+              "showValue": "珠三角",
+              "value": "珠三角"
+            },
+            {
+              "count": 16,
+              "showValue": "香港",
+              "value": "香港"
+            },
+            {
+              "count": 13,
+              "showValue": "吉安",
+              "value": "吉安"
+            },
+            {
+              "count": 13,
+              "showValue": "松原",
+              "value": "松原"
+            },
+            {
+              "count": 13,
+              "showValue": "查干湖",
+              "value": "查干湖"
+            },
+            {
+              "count": 12,
+              "showValue": "南沙",
+              "value": "南沙"
+            },
+            {
+              "count": 12,
+              "showValue": "潮州",
+              "value": "潮州"
+            },
+            {
+              "count": 12,
+              "showValue": "韩国",
+              "value": "韩国"
+            },
+            {
+              "count": 11,
+              "showValue": "东北亚",
+              "value": "东北亚"
+            },
+            {
+              "count": 11,
+              "showValue": "延边",
+              "value": "延边"
+            },
+            {
+              "count": 11,
+              "showValue": "梅河口",
+              "value": "梅河口"
+            },
+            {
+              "count": 10,
+              "showValue": "松原市",
+              "value": "松原市"
+            },
+            {
+              "count": 10,
+              "showValue": "欧洲",
+              "value": "欧洲"
+            },
+            {
+              "count": 10,
+              "showValue": "通化市",
+              "value": "通化市"
+            },
+            {
+              "count": 9,
+              "showValue": "中国吉林省",
+              "value": "中国吉林省"
+            },
+            {
+              "count": 9,
+              "showValue": "九寨沟景区",
+              "value": "九寨沟景区"
+            },
+            {
+              "count": 9,
+              "showValue": "前海",
+              "value": "前海"
+            },
+            {
+              "count": 9,
+              "showValue": "广州深圳",
+              "value": "广州深圳"
+            },
+            {
+              "count": 9,
+              "showValue": "日本",
+              "value": "日本"
+            },
+            {
+              "count": 9,
+              "showValue": "港澳",
+              "value": "港澳"
+            },
+            {
+              "count": 9,
+              "showValue": "珠江",
+              "value": "珠江"
+            },
+            {
+              "count": 9,
+              "showValue": "白城市",
+              "value": "白城市"
+            },
+            {
+              "count": 9,
+              "showValue": "通化",
+              "value": "通化"
+            },
+            {
+              "count": 9,
+              "showValue": "长白山",
+              "value": "长白山"
+            },
+            {
+              "count": 8,
+              "showValue": "南湖立交桥",
+              "value": "南湖立交桥"
+            },
+            {
+              "count": 8,
+              "showValue": "海南",
+              "value": "海南"
+            },
+            {
+              "count": 8,
+              "showValue": "省图书馆广场",
+              "value": "省图书馆广场"
+            },
+            {
+              "count": 7,
+              "showValue": "吉安市",
+              "value": "吉安市"
+            },
+            {
+              "count": 7,
+              "showValue": "横琴",
+              "value": "横琴"
+            },
+            {
+              "count": 7,
+              "showValue": "深圳机场",
+              "value": "深圳机场"
+            },
+            {
+              "count": 7,
+              "showValue": "长春市",
+              "value": "长春市"
+            },
+            {
+              "count": 6,
+              "showValue": "上海",
+              "value": "上海"
+            },
+            {
+              "count": 6,
+              "showValue": "广东自贸试验区",
+              "value": "广东自贸试验区"
+            },
+            {
+              "count": 6,
+              "showValue": "延边州",
+              "value": "延边州"
+            },
+            {
+              "count": 6,
+              "showValue": "法国",
+              "value": "法国"
+            },
+            {
+              "count": 6,
+              "showValue": "浙江",
+              "value": "浙江"
+            },
+            {
+              "count": 6,
+              "showValue": "澳门",
+              "value": "澳门"
+            },
+            {
+              "count": 6,
+              "showValue": "甘肃",
+              "value": "甘肃"
+            },
+            {
+              "count": 6,
+              "showValue": "白云机场",
+              "value": "白云机场"
+            },
+            {
+              "count": 6,
+              "showValue": "皇岗口岸",
+              "value": "皇岗口岸"
+            },
+            {
+              "count": 6,
+              "showValue": "莲麻村",
+              "value": "莲麻村"
+            },
+            {
+              "count": 5,
+              "showValue": "东南亚",
+              "value": "东南亚"
+            },
+            {
+              "count": 5,
+              "showValue": "乌克兰",
+              "value": "乌克兰"
+            },
+            {
+              "count": 5,
+              "showValue": "吉林好人发布厅",
+              "value": "吉林好人发布厅"
+            },
+            {
+              "count": 5,
+              "showValue": "吉田",
+              "value": "吉田"
+            },
+            {
+              "count": 5,
+              "showValue": "大湾区",
+              "value": "大湾区"
+            },
+            {
+              "count": 5,
+              "showValue": "大连丹东吉安长白山",
+              "value": "大连丹东吉安长白山"
+            },
+            {
+              "count": 5,
+              "showValue": "嫩江湾",
+              "value": "嫩江湾"
+            },
+            {
+              "count": 5,
+              "showValue": "德国",
+              "value": "德国"
+            },
+            {
+              "count": 5,
+              "showValue": "抚松",
+              "value": "抚松"
+            },
+            {
+              "count": 5,
+              "showValue": "揭阳",
+              "value": "揭阳"
+            },
+            {
+              "count": 5,
+              "showValue": "新疆北部",
+              "value": "新疆北部"
+            },
+            {
+              "count": 5,
+              "showValue": "柳河县",
+              "value": "柳河县"
+            },
+            {
+              "count": 5,
+              "showValue": "梅河口市",
+              "value": "梅河口市"
+            },
+            {
+              "count": 5,
+              "showValue": "浑春",
+              "value": "浑春"
+            },
+            {
+              "count": 5,
+              "showValue": "深圳机场站",
+              "value": "深圳机场站"
+            },
+            {
+              "count": 5,
+              "showValue": "深圳校区",
+              "value": "深圳校区"
+            },
+            {
+              "count": 5,
+              "showValue": "辽源",
+              "value": "辽源"
+            },
+            {
+              "count": 5,
+              "showValue": "重庆",
+              "value": "重庆"
+            },
+            {
+              "count": 4,
+              "showValue": "万丰社区",
+              "value": "万丰社区"
+            },
+            {
+              "count": 4,
+              "showValue": "万良长白山人参市场",
+              "value": "万良长白山人参市场"
+            },
+            {
+              "count": 4,
+              "showValue": "东辽县安恕镇毕家村",
+              "value": "东辽县安恕镇毕家村"
+            },
+            {
+              "count": 4,
+              "showValue": "东镇运中",
+              "value": "东镇运中"
+            },
+            {
+              "count": 4,
+              "showValue": "九寨沟",
+              "value": "九寨沟"
+            },
+            {
+              "count": 4,
+              "showValue": "京津冀",
+              "value": "京津冀"
+            },
+            {
+              "count": 4,
+              "showValue": "公主岭市",
+              "value": "公主岭市"
+            },
+            {
+              "count": 4,
+              "showValue": "农安县开安镇万来村",
+              "value": "农安县开安镇万来村"
+            },
+            {
+              "count": 4,
+              "showValue": "农安镇",
+              "value": "农安镇"
+            },
+            {
+              "count": 4,
+              "showValue": "北京大兴国际机场",
+              "value": "北京大兴国际机场"
+            },
+            {
+              "count": 4,
+              "showValue": "北京西",
+              "value": "北京西"
+            },
+            {
+              "count": 4,
+              "showValue": "华南",
+              "value": "华南"
+            },
+            {
+              "count": 4,
+              "showValue": "双龙海瀑布",
+              "value": "双龙海瀑布"
+            },
+            {
+              "count": 4,
+              "showValue": "吉林市昌邑区孤店子镇大荒地村",
+              "value": "吉林市昌邑区孤店子镇大荒地村"
+            },
+            {
+              "count": 4,
+              "showValue": "吉林延边",
+              "value": "吉林延边"
+            },
+            {
+              "count": 4,
+              "showValue": "四平城区",
+              "value": "四平城区"
+            },
+            {
+              "count": 4,
+              "showValue": "大兴机场段",
+              "value": "大兴机场段"
+            },
+            {
+              "count": 4,
+              "showValue": "天安门广场",
+              "value": "天安门广场"
+            },
+            {
+              "count": 4,
+              "showValue": "巴音朝鲁",
+              "value": "巴音朝鲁"
+            },
+            {
+              "count": 4,
+              "showValue": "延吉保税物流中心",
+              "value": "延吉保税物流中心"
+            },
+            {
+              "count": 4,
+              "showValue": "延吉市",
+              "value": "延吉市"
+            },
+            {
+              "count": 4,
+              "showValue": "张家屯",
+              "value": "张家屯"
+            }
+          ]
+        },
+        {
+          "facetFieldName": "districtpath",
+          "facetLayer": 1,
+          "facetShowName": "地区",
+          "facetValue": [
+            {
+              "count": 5,
+              "showValue": "亚洲",
+              "value": "亚洲"
+            }
+          ]
+        },
+        {
+          "facetFieldName": "eventorg",
+          "facetLayer": 1,
+          "facetShowName": "相关机构",
+          "facetValue": [
+            {
+              "count": 55,
+              "showValue": "中国共产党",
+              "value": "中国共产党"
+            },
+            {
+              "count": 46,
+              "showValue": "央视",
+              "value": "央视"
+            },
+            {
+              "count": 43,
+              "showValue": "省委",
+              "value": "省委"
+            },
+            {
+              "count": 38,
+              "showValue": "广东台",
+              "value": "广东台"
+            },
+            {
+              "count": 30,
+              "showValue": "联合国",
+              "value": "联合国"
+            },
+            {
+              "count": 29,
+              "showValue": "党中央",
+              "value": "党中央"
+            },
+            {
+              "count": 20,
+              "showValue": "人民日报",
+              "value": "人民日报"
+            },
+            {
+              "count": 18,
+              "showValue": "中国中央电视台",
+              "value": "中国中央电视台"
+            },
+            {
+              "count": 18,
+              "showValue": "中央气象台",
+              "value": "中央气象台"
+            },
+            {
+              "count": 18,
+              "showValue": "省委省政府",
+              "value": "省委省政府"
+            },
+            {
+              "count": 17,
+              "showValue": "中国国际电视台",
+              "value": "中国国际电视台"
+            },
+            {
+              "count": 16,
+              "showValue": "中央电视台",
+              "value": "中央电视台"
+            },
+            {
+              "count": 16,
+              "showValue": "省政府",
+              "value": "省政府"
+            },
+            {
+              "count": 15,
+              "showValue": "国务院",
+              "value": "国务院"
+            },
+            {
+              "count": 14,
+              "showValue": "广州消防",
+              "value": "广州消防"
+            },
+            {
+              "count": 13,
+              "showValue": "民政部",
+              "value": "民政部"
+            },
+            {
+              "count": 12,
+              "showValue": "中共中央政治局",
+              "value": "中共中央政治局"
+            },
+            {
+              "count": 12,
+              "showValue": "交通运输部",
+              "value": "交通运输部"
+            },
+            {
+              "count": 11,
+              "showValue": "中山大学",
+              "value": "中山大学"
+            },
+            {
+              "count": 11,
+              "showValue": "公安部",
+              "value": "公安部"
+            },
+            {
+              "count": 11,
+              "showValue": "省人大常委会",
+              "value": "省人大常委会"
+            },
+            {
+              "count": 10,
+              "showValue": "中共中央",
+              "value": "中共中央"
+            },
+            {
+              "count": 10,
+              "showValue": "中国环球电视网",
+              "value": "中国环球电视网"
+            },
+            {
+              "count": 10,
+              "showValue": "欧盟",
+              "value": "欧盟"
+            },
+            {
+              "count": 9,
+              "showValue": "中国国际广播电台",
+              "value": "中国国际广播电台"
+            },
+            {
+              "count": 9,
+              "showValue": "中央人民广播电台",
+              "value": "中央人民广播电台"
+            },
+            {
+              "count": 9,
+              "showValue": "叙利亚政府军",
+              "value": "叙利亚政府军"
+            },
+            {
+              "count": 9,
+              "showValue": "吉林卫视",
+              "value": "吉林卫视"
+            },
+            {
+              "count": 9,
+              "showValue": "央视网",
+              "value": "央视网"
+            },
+            {
+              "count": 9,
+              "showValue": "惠州台",
+              "value": "惠州台"
+            },
+            {
+              "count": 9,
+              "showValue": "深视",
+              "value": "深视"
+            },
+            {
+              "count": 9,
+              "showValue": "省食药监局",
+              "value": "省食药监局"
+            },
+            {
+              "count": 9,
+              "showValue": "联合国人权理事会",
+              "value": "联合国人权理事会"
+            },
+            {
+              "count": 9,
+              "showValue": "长春亚泰",
+              "value": "长春亚泰"
+            },
+            {
+              "count": 9,
+              "showValue": "韩国政府",
+              "value": "韩国政府"
+            },
+            {
+              "count": 8,
+              "showValue": "人民政协",
+              "value": "人民政协"
+            },
+            {
+              "count": 8,
+              "showValue": "元首理事会",
+              "value": "元首理事会"
+            },
+            {
+              "count": 8,
+              "showValue": "吉林省气象台",
+              "value": "吉林省气象台"
+            },
+            {
+              "count": 8,
+              "showValue": "商务部",
+              "value": "商务部"
+            },
+            {
+              "count": 8,
+              "showValue": "国台办",
+              "value": "国台办"
+            },
+            {
+              "count": 8,
+              "showValue": "广东省委",
+              "value": "广东省委"
+            },
+            {
+              "count": 8,
+              "showValue": "武警部队",
+              "value": "武警部队"
+            },
+            {
+              "count": 8,
+              "showValue": "省委宣传部",
+              "value": "省委宣传部"
+            },
+            {
+              "count": 8,
+              "showValue": "省委常委会",
+              "value": "省委常委会"
+            },
+            {
+              "count": 8,
+              "showValue": "省委组织部",
+              "value": "省委组织部"
+            },
+            {
+              "count": 7,
+              "showValue": "上海",
+              "value": "上海"
+            },
+            {
+              "count": 7,
+              "showValue": "农业部",
+              "value": "农业部"
+            },
+            {
+              "count": 7,
+              "showValue": "医院",
+              "value": "医院"
+            },
+            {
+              "count": 7,
+              "showValue": "国务院新闻办",
+              "value": "国务院新闻办"
+            },
+            {
+              "count": 7,
+              "showValue": "外交部",
+              "value": "外交部"
+            },
+            {
+              "count": 7,
+              "showValue": "深圳交警",
+              "value": "深圳交警"
+            },
+            {
+              "count": 7,
+              "showValue": "深圳卫视",
+              "value": "深圳卫视"
+            },
+            {
+              "count": 7,
+              "showValue": "深圳台",
+              "value": "深圳台"
+            },
+            {
+              "count": 7,
+              "showValue": "生态环境部",
+              "value": "生态环境部"
+            },
+            {
+              "count": 7,
+              "showValue": "银监会",
+              "value": "银监会"
+            },
+            {
+              "count": 6,
+              "showValue": "中国物流与采购联合会",
+              "value": "中国物流与采购联合会"
+            },
+            {
+              "count": 6,
+              "showValue": "中央巡视组",
+              "value": "中央巡视组"
+            },
+            {
+              "count": 6,
+              "showValue": "人民网新华网",
+              "value": "人民网新华网"
+            },
+            {
+              "count": 6,
+              "showValue": "全国人大常委会",
+              "value": "全国人大常委会"
+            },
+            {
+              "count": 6,
+              "showValue": "县扶贫局",
+              "value": "县扶贫局"
+            },
+            {
+              "count": 6,
+              "showValue": "吉林广播电视台",
+              "value": "吉林广播电视台"
+            },
+            {
+              "count": 6,
+              "showValue": "同济大学",
+              "value": "同济大学"
+            },
+            {
+              "count": 6,
+              "showValue": "宪法法院",
+              "value": "宪法法院"
+            },
+            {
+              "count": 6,
+              "showValue": "广东新闻联",
+              "value": "广东新闻联"
+            },
+            {
+              "count": 6,
+              "showValue": "广东省政府",
+              "value": "广东省政府"
+            },
+            {
+              "count": 6,
+              "showValue": "广州市教育局",
+              "value": "广州市教育局"
+            },
+            {
+              "count": 6,
+              "showValue": "广州酒防",
+              "value": "广州酒防"
+            },
+            {
+              "count": 6,
+              "showValue": "梅河口市实验中学",
+              "value": "梅河口市实验中学"
+            },
+            {
+              "count": 6,
+              "showValue": "梅河口市省足协省教育厅学生体育协会",
+              "value": "梅河口市省足协省教育厅学生体育协会"
+            },
+            {
+              "count": 6,
+              "showValue": "气象台",
+              "value": "气象台"
+            },
+            {
+              "count": 6,
+              "showValue": "泰外交部",
+              "value": "泰外交部"
+            },
+            {
+              "count": 6,
+              "showValue": "省教育厅",
+              "value": "省教育厅"
+            },
+            {
+              "count": 6,
+              "showValue": "省科协",
+              "value": "省科协"
+            },
+            {
+              "count": 6,
+              "showValue": "省纪委",
+              "value": "省纪委"
+            },
+            {
+              "count": 6,
+              "showValue": "美国参议院",
+              "value": "美国参议院"
+            },
+            {
+              "count": 6,
+              "showValue": "铁路部门",
+              "value": "铁路部门"
+            },
+            {
+              "count": 6,
+              "showValue": "长春市足协长春亚泰足球俱乐部",
+              "value": "长春市足协长春亚泰足球俱乐部"
+            },
+            {
+              "count": 5,
+              "showValue": "上海汽车博物馆",
+              "value": "上海汽车博物馆"
+            },
+            {
+              "count": 5,
+              "showValue": "专业合作经济组织",
+              "value": "专业合作经济组织"
+            },
+            {
+              "count": 5,
+              "showValue": "中国政府",
+              "value": "中国政府"
+            },
+            {
+              "count": 5,
+              "showValue": "中国致公党",
+              "value": "中国致公党"
+            },
+            {
+              "count": 5,
+              "showValue": "中央军委",
+              "value": "中央军委"
+            },
+            {
+              "count": 5,
+              "showValue": "中央政治局",
+              "value": "中央政治局"
+            },
+            {
+              "count": 5,
+              "showValue": "中央深改小组",
+              "value": "中央深改小组"
+            },
+            {
+              "count": 5,
+              "showValue": "中央财经委员会",
+              "value": "中央财经委员会"
+            },
+            {
+              "count": 5,
+              "showValue": "党中央中央军委",
+              "value": "党中央中央军委"
+            },
+            {
+              "count": 5,
+              "showValue": "党中央国务院",
+              "value": "党中央国务院"
+            },
+            {
+              "count": 5,
+              "showValue": "兰州大学",
+              "value": "兰州大学"
+            },
+            {
+              "count": 5,
+              "showValue": "农亚农村部",
+              "value": "农亚农村部"
+            },
+            {
+              "count": 5,
+              "showValue": "叙政府",
+              "value": "叙政府"
+            },
+            {
+              "count": 5,
+              "showValue": "吉林农业大学",
+              "value": "吉林农业大学"
+            },
+            {
+              "count": 5,
+              "showValue": "吉林省",
+              "value": "吉林省"
+            },
+            {
+              "count": 5,
+              "showValue": "吉林网络广播电视台",
+              "value": "吉林网络广播电视台"
+            },
+            {
+              "count": 5,
+              "showValue": "同济大学测绘与地理信息学院",
+              "value": "同济大学测绘与地理信息学院"
+            },
+            {
+              "count": 5,
+              "showValue": "哥伦比亚革命武装力量",
+              "value": "哥伦比亚革命武装力量"
+            },
+            {
+              "count": 5,
+              "showValue": "国家机关",
+              "value": "国家机关"
+            },
+            {
+              "count": 5,
+              "showValue": "国家能源局",
+              "value": "国家能源局"
+            },
+            {
+              "count": 5,
+              "showValue": "国防部",
+              "value": "国防部"
+            },
+            {
+              "count": 5,
+              "showValue": "广东卫视",
+              "value": "广东卫视"
+            },
+            {
+              "count": 5,
+              "showValue": "广东省安全监管局",
+              "value": "广东省安全监管局"
+            }
+          ]
+        },
+        {
+          "facetFieldName": "sceneorg",
+          "facetLayer": 1,
+          "facetShowName": "机构",
+          "facetValue": [
+            {
+              "count": 34,
+              "showValue": "省委",
+              "value": "省委"
+            },
+            {
+              "count": 28,
+              "showValue": "党中央",
+              "value": "党中央"
+            },
+            {
+              "count": 20,
+              "showValue": "中国共产党",
+              "value": "中国共产党"
+            },
+            {
+              "count": 19,
+              "showValue": "联合国",
+              "value": "联合国"
+            },
+            {
+              "count": 18,
+              "showValue": "广东台",
+              "value": "广东台"
+            },
+            {
+              "count": 18,
+              "showValue": "省委省政府",
+              "value": "省委省政府"
+            },
+            {
+              "count": 17,
+              "showValue": "中央电视台",
+              "value": "中央电视台"
+            },
+            {
+              "count": 16,
+              "showValue": "省委组织部",
+              "value": "省委组织部"
+            },
+            {
+              "count": 16,
+              "showValue": "省政府",
+              "value": "省政府"
+            },
+            {
+              "count": 13,
+              "showValue": "中山大学",
+              "value": "中山大学"
+            },
+            {
+              "count": 13,
+              "showValue": "吉林卫视",
+              "value": "吉林卫视"
+            },
+            {
+              "count": 13,
+              "showValue": "吉林广播电视台",
+              "value": "吉林广播电视台"
+            },
+            {
+              "count": 11,
+              "showValue": "梅河口市省足协省教育厅学生体育协会",
+              "value": "梅河口市省足协省教育厅学生体育协会"
+            },
+            {
+              "count": 11,
+              "showValue": "省人大常委会",
+              "value": "省人大常委会"
+            },
+            {
+              "count": 11,
+              "showValue": "省委宣传部",
+              "value": "省委宣传部"
+            },
+            {
+              "count": 10,
+              "showValue": "深圳卫视",
+              "value": "深圳卫视"
+            },
+            {
+              "count": 10,
+              "showValue": "温州医科大学附属第一医院",
+              "value": "温州医科大学附属第一医院"
+            },
+            {
+              "count": 9,
+              "showValue": "叙利亚民主军",
+              "value": "叙利亚民主军"
+            },
+            {
+              "count": 9,
+              "showValue": "同济大学",
+              "value": "同济大学"
+            },
+            {
+              "count": 9,
+              "showValue": "市海监渔政处",
+              "value": "市海监渔政处"
+            },
+            {
+              "count": 9,
+              "showValue": "广东",
+              "value": "广东"
+            },
+            {
+              "count": 9,
+              "showValue": "广东海关",
+              "value": "广东海关"
+            },
+            {
+              "count": 9,
+              "showValue": "省食药监局",
+              "value": "省食药监局"
+            },
+            {
+              "count": 9,
+              "showValue": "长春亚泰",
+              "value": "长春亚泰"
+            },
+            {
+              "count": 8,
+              "showValue": "中央气象台",
+              "value": "中央气象台"
+            },
+            {
+              "count": 8,
+              "showValue": "人民日报",
+              "value": "人民日报"
+            },
+            {
+              "count": 8,
+              "showValue": "央视",
+              "value": "央视"
+            },
+            {
+              "count": 8,
+              "showValue": "广东卫视",
+              "value": "广东卫视"
+            },
+            {
+              "count": 8,
+              "showValue": "广东边防总队",
+              "value": "广东边防总队"
+            },
+            {
+              "count": 8,
+              "showValue": "总领馆",
+              "value": "总领馆"
+            },
+            {
+              "count": 8,
+              "showValue": "深视",
+              "value": "深视"
+            },
+            {
+              "count": 8,
+              "showValue": "省图书馆",
+              "value": "省图书馆"
+            },
+            {
+              "count": 8,
+              "showValue": "省文联省摄影家协会",
+              "value": "省文联省摄影家协会"
+            },
+            {
+              "count": 8,
+              "showValue": "省民航机场集团公司",
+              "value": "省民航机场集团公司"
+            },
+            {
+              "count": 8,
+              "showValue": "省音乐家协会",
+              "value": "省音乐家协会"
+            },
+            {
+              "count": 7,
+              "showValue": "中国国际电视台",
+              "value": "中国国际电视台"
+            },
+            {
+              "count": 7,
+              "showValue": "中国政府",
+              "value": "中国政府"
+            },
+            {
+              "count": 7,
+              "showValue": "全国人大常委会",
+              "value": "全国人大常委会"
+            },
+            {
+              "count": 7,
+              "showValue": "公安部",
+              "value": "公安部"
+            },
+            {
+              "count": 7,
+              "showValue": "国家能源局",
+              "value": "国家能源局"
+            },
+            {
+              "count": 7,
+              "showValue": "延边国泰新能源汽车公司",
+              "value": "延边国泰新能源汽车公司"
+            },
+            {
+              "count": 7,
+              "showValue": "惠州台",
+              "value": "惠州台"
+            },
+            {
+              "count": 7,
+              "showValue": "梅河口市实验中学",
+              "value": "梅河口市实验中学"
+            },
+            {
+              "count": 7,
+              "showValue": "环保部",
+              "value": "环保部"
+            },
+            {
+              "count": 7,
+              "showValue": "省公安厅",
+              "value": "省公安厅"
+            },
+            {
+              "count": 7,
+              "showValue": "省广播电视局省广告协会",
+              "value": "省广播电视局省广告协会"
+            },
+            {
+              "count": 7,
+              "showValue": "省教育厅省市场监督管理厅",
+              "value": "省教育厅省市场监督管理厅"
+            },
+            {
+              "count": 7,
+              "showValue": "省科协",
+              "value": "省科协"
+            },
+            {
+              "count": 7,
+              "showValue": "长春市足协长春亚泰足球俱乐部",
+              "value": "长春市足协长春亚泰足球俱乐部"
+            },
+            {
+              "count": 6,
+              "showValue": "中共中央政治局",
+              "value": "中共中央政治局"
+            },
+            {
+              "count": 6,
+              "showValue": "中国环球电视网",
+              "value": "中国环球电视网"
+            },
+            {
+              "count": 6,
+              "showValue": "交通运输部",
+              "value": "交通运输部"
+            },
+            {
+              "count": 6,
+              "showValue": "华为",
+              "value": "华为"
+            },
+            {
+              "count": 6,
+              "showValue": "吉林省",
+              "value": "吉林省"
+            },
+            {
+              "count": 6,
+              "showValue": "哥伦比亚革命武装力量",
+              "value": "哥伦比亚革命武装力量"
+            },
+            {
+              "count": 6,
+              "showValue": "广州市教育局",
+              "value": "广州市教育局"
+            },
+            {
+              "count": 6,
+              "showValue": "广州海关",
+              "value": "广州海关"
+            },
+            {
+              "count": 6,
+              "showValue": "教育部",
+              "value": "教育部"
+            },
+            {
+              "count": 6,
+              "showValue": "欧洲货币集团",
+              "value": "欧洲货币集团"
+            },
+            {
+              "count": 6,
+              "showValue": "气象台",
+              "value": "气象台"
+            },
+            {
+              "count": 6,
+              "showValue": "海关",
+              "value": "海关"
+            },
+            {
+              "count": 6,
+              "showValue": "深圳台",
+              "value": "深圳台"
+            },
+            {
+              "count": 6,
+              "showValue": "省委宣传部省特意军人事务厅",
+              "value": "省委宣传部省特意军人事务厅"
+            },
+            {
+              "count": 6,
+              "showValue": "省教育厅",
+              "value": "省教育厅"
+            },
+            {
+              "count": 6,
+              "showValue": "金砖国家工商论坛组委会",
+              "value": "金砖国家工商论坛组委会"
+            },
+            {
+              "count": 5,
+              "showValue": "中山纪念中学",
+              "value": "中山纪念中学"
+            },
+            {
+              "count": 5,
+              "showValue": "九龄小学",
+              "value": "九龄小学"
+            },
+            {
+              "count": 5,
+              "showValue": "人社部",
+              "value": "人社部"
+            },
+            {
+              "count": 5,
+              "showValue": "俄外交部",
+              "value": "俄外交部"
+            },
+            {
+              "count": 5,
+              "showValue": "内蒙古自治区食药监局",
+              "value": "内蒙古自治区食药监局"
+            },
+            {
+              "count": 5,
+              "showValue": "医院",
+              "value": "医院"
+            },
+            {
+              "count": 5,
+              "showValue": "吉林省人民政府",
+              "value": "吉林省人民政府"
+            },
+            {
+              "count": 5,
+              "showValue": "吉林网络广播电视台",
+              "value": "吉林网络广播电视台"
+            },
+            {
+              "count": 5,
+              "showValue": "国家食药监局",
+              "value": "国家食药监局"
+            },
+            {
+              "count": 5,
+              "showValue": "居民委员会",
+              "value": "居民委员会"
+            },
+            {
+              "count": 5,
+              "showValue": "深圳广播电影电视集团",
+              "value": "深圳广播电影电视集团"
+            },
+            {
+              "count": 5,
+              "showValue": "省作协",
+              "value": "省作协"
+            },
+            {
+              "count": 5,
+              "showValue": "省委常委会",
+              "value": "省委常委会"
+            },
+            {
+              "count": 5,
+              "showValue": "省孤儿学校",
+              "value": "省孤儿学校"
+            },
+            {
+              "count": 5,
+              "showValue": "省应急管理厅",
+              "value": "省应急管理厅"
+            },
+            {
+              "count": 5,
+              "showValue": "省民政厅省委组织部省委宣传部省委老干部局",
+              "value": "省民政厅省委组织部省委宣传部省委老干部局"
+            },
+            {
+              "count": 4,
+              "showValue": "万丰社区工作站",
+              "value": "万丰社区工作站"
+            },
+            {
+              "count": 4,
+              "showValue": "中央财经委员会",
+              "value": "中央财经委员会"
+            },
+            {
+              "count": 4,
+              "showValue": "中山台",
+              "value": "中山台"
+            },
+            {
+              "count": 4,
+              "showValue": "中粮生物科技",
+              "value": "中粮生物科技"
+            },
+            {
+              "count": 4,
+              "showValue": "人大常委会",
+              "value": "人大常委会"
+            },
+            {
+              "count": 4,
+              "showValue": "党中央国务院",
+              "value": "党中央国务院"
+            },
+            {
+              "count": 4,
+              "showValue": "公主岭市政府",
+              "value": "公主岭市政府"
+            },
+            {
+              "count": 4,
+              "showValue": "农业农村部",
+              "value": "农业农村部"
+            },
+            {
+              "count": 4,
+              "showValue": "华南师范大学附属中学",
+              "value": "华南师范大学附属中学"
+            },
+            {
+              "count": 4,
+              "showValue": "吉大医院",
+              "value": "吉大医院"
+            },
+            {
+              "count": 4,
+              "showValue": "吉林东北亚出版传媒集团",
+              "value": "吉林东北亚出版传媒集团"
+            },
+            {
+              "count": 4,
+              "showValue": "吉林农业大学",
+              "value": "吉林农业大学"
+            },
+            {
+              "count": 4,
+              "showValue": "吉林大学马克思主义学院",
+              "value": "吉林大学马克思主义学院"
+            },
+            {
+              "count": 4,
+              "showValue": "吉林广播电视台吉林好人发布厅",
+              "value": "吉林广播电视台吉林好人发布厅"
+            },
+            {
+              "count": 4,
+              "showValue": "吉林省人力资源和社会保障厅",
+              "value": "吉林省人力资源和社会保障厅"
+            },
+            {
+              "count": 4,
+              "showValue": "吉林省人民代表大会常务委员会",
+              "value": "吉林省人民代表大会常务委员会"
+            },
+            {
+              "count": 4,
+              "showValue": "吉林省委",
+              "value": "吉林省委"
+            },
+            {
+              "count": 4,
+              "showValue": "吉林省森林草原防灭火指挥部",
+              "value": "吉林省森林草原防灭火指挥部"
+            },
+            {
+              "count": 4,
+              "showValue": "吉林省老新闻工作者协会",
+              "value": "吉林省老新闻工作者协会"
+            }
+          ]
+        },
+        {
+          "facetFieldName": "background",
+          "facetLayer": 1,
+          "facetShowName": "背景",
+          "facetValue": [
+            {
+              "count": 2742,
+              "showValue": "会议室",
+              "value": "会议室"
+            },
+            {
+              "count": 962,
+              "showValue": "人物特写",
+              "value": "人物特写"
+            },
+            {
+              "count": 627,
+              "showValue": "集市",
+              "value": "集市"
+            },
+            {
+              "count": 588,
+              "showValue": "舞台",
+              "value": "舞台"
+            },
+            {
+              "count": 580,
+              "showValue": "商店",
+              "value": "商店"
+            },
+            {
+              "count": 547,
+              "showValue": "图文",
+              "value": "图文"
+            },
+            {
+              "count": 456,
+              "showValue": "电视台",
+              "value": "电视台"
+            },
+            {
+              "count": 366,
+              "showValue": "土地",
+              "value": "土地"
+            },
+            {
+              "count": 340,
+              "showValue": "办公室",
+              "value": "办公室"
+            },
+            {
+              "count": 280,
+              "showValue": "房屋",
+              "value": "房屋"
+            },
+            {
+              "count": 210,
+              "showValue": "公园/花园",
+              "value": "公园/花园"
+            },
+            {
+              "count": 207,
+              "showValue": "医院",
+              "value": "医院"
+            },
+            {
+              "count": 206,
+              "showValue": "运动场/体育馆",
+              "value": "运动场/体育馆"
+            },
+            {
+              "count": 198,
+              "showValue": "河流湖泊",
+              "value": "河流湖泊"
+            },
+            {
+              "count": 194,
+              "showValue": "街道",
+              "value": "街道"
+            },
+            {
+              "count": 188,
+              "showValue": "游乐场",
+              "value": "游乐场"
+            },
+            {
+              "count": 175,
+              "showValue": "实验室",
+              "value": "实验室"
+            },
+            {
+              "count": 134,
+              "showValue": "浴室",
+              "value": "浴室"
+            },
+            {
+              "count": 128,
+              "showValue": "电梯/楼梯",
+              "value": "电梯/楼梯"
+            },
+            {
+              "count": 123,
+              "showValue": "树林",
+              "value": "树林"
+            },
+            {
+              "count": 118,
+              "showValue": "航站楼",
+              "value": "航站楼"
+            },
+            {
+              "count": 116,
+              "showValue": "博物馆",
+              "value": "博物馆"
+            },
+            {
+              "count": 111,
+              "showValue": "公路",
+              "value": "公路"
+            },
+            {
+              "count": 111,
+              "showValue": "码头/海港/港口",
+              "value": "码头/海港/港口"
+            },
+            {
+              "count": 110,
+              "showValue": "海洋/沙滩",
+              "value": "海洋/沙滩"
+            },
+            {
+              "count": 104,
+              "showValue": "冰场",
+              "value": "冰场"
+            },
+            {
+              "count": 103,
+              "showValue": "建筑工地",
+              "value": "建筑工地"
+            },
+            {
+              "count": 97,
+              "showValue": "图书馆/书店",
+              "value": "图书馆/书店"
+            },
+            {
+              "count": 95,
+              "showValue": "工厂",
+              "value": "工厂"
+            },
+            {
+              "count": 94,
+              "showValue": "舞厅",
+              "value": "舞厅"
+            },
+            {
+              "count": 92,
+              "showValue": "高楼/大厦",
+              "value": "高楼/大厦"
+            },
+            {
+              "count": 85,
+              "showValue": "酒吧",
+              "value": "酒吧"
+            },
+            {
+              "count": 83,
+              "showValue": "未知背景",
+              "value": "未知背景"
+            },
+            {
+              "count": 82,
+              "showValue": "大厅",
+              "value": "大厅"
+            },
+            {
+              "count": 81,
+              "showValue": "售票处",
+              "value": "售票处"
+            },
+            {
+              "count": 78,
+              "showValue": "电影院/剧院",
+              "value": "电影院/剧院"
+            },
+            {
+              "count": 73,
+              "showValue": "学校",
+              "value": "学校"
+            },
+            {
+              "count": 72,
+              "showValue": "停机坪",
+              "value": "停机坪"
+            },
+            {
+              "count": 69,
+              "showValue": "广场",
+              "value": "广场"
+            },
+            {
+              "count": 68,
+              "showValue": "酒店/旅馆",
+              "value": "酒店/旅馆"
+            },
+            {
+              "count": 68,
+              "showValue": "餐厅食堂",
+              "value": "餐厅食堂"
+            },
+            {
+              "count": 67,
+              "showValue": "流水线",
+              "value": "流水线"
+            },
+            {
+              "count": 65,
+              "showValue": "艺术室",
+              "value": "艺术室"
+            },
+            {
+              "count": 58,
+              "showValue": "综合超市",
+              "value": "综合超市"
+            },
+            {
+              "count": 57,
+              "showValue": "水族馆",
+              "value": "水族馆"
+            },
+            {
+              "count": 56,
+              "showValue": "桥",
+              "value": "桥"
+            },
+            {
+              "count": 54,
+              "showValue": "塔",
+              "value": "塔"
+            },
+            {
+              "count": 53,
+              "showValue": "山",
+              "value": "山"
+            },
+            {
+              "count": 50,
+              "showValue": "天空",
+              "value": "天空"
+            },
+            {
+              "count": 49,
+              "showValue": "停车场",
+              "value": "停车场"
+            },
+            {
+              "count": 48,
+              "showValue": "跑马场",
+              "value": "跑马场"
+            },
+            {
+              "count": 46,
+              "showValue": "站台",
+              "value": "站台"
+            },
+            {
+              "count": 44,
+              "showValue": "大使馆",
+              "value": "大使馆"
+            },
+            {
+              "count": 40,
+              "showValue": "沙漠",
+              "value": "沙漠"
+            },
+            {
+              "count": 38,
+              "showValue": "乡村",
+              "value": "乡村"
+            },
+            {
+              "count": 34,
+              "showValue": "音乐工作室",
+              "value": "音乐工作室"
+            },
+            {
+              "count": 33,
+              "showValue": "军事基地",
+              "value": "军事基地"
+            },
+            {
+              "count": 32,
+              "showValue": "亚洲寺庙",
+              "value": "亚洲寺庙"
+            },
+            {
+              "count": 32,
+              "showValue": "游戏室",
+              "value": "游戏室"
+            },
+            {
+              "count": 31,
+              "showValue": "汽车",
+              "value": "汽车"
+            },
+            {
+              "count": 31,
+              "showValue": "铁路",
+              "value": "铁路"
+            },
+            {
+              "count": 27,
+              "showValue": "机舱",
+              "value": "机舱"
+            },
+            {
+              "count": 25,
+              "showValue": "垃圾场",
+              "value": "垃圾场"
+            },
+            {
+              "count": 25,
+              "showValue": "宫殿",
+              "value": "宫殿"
+            },
+            {
+              "count": 25,
+              "showValue": "宴会厅",
+              "value": "宴会厅"
+            },
+            {
+              "count": 25,
+              "showValue": "美容/美发店",
+              "value": "美容/美发店"
+            },
+            {
+              "count": 21,
+              "showValue": "汽车展厅",
+              "value": "汽车展厅"
+            },
+            {
+              "count": 21,
+              "showValue": "沟渠",
+              "value": "沟渠"
+            },
+            {
+              "count": 21,
+              "showValue": "风车",
+              "value": "风车"
+            },
+            {
+              "count": 20,
+              "showValue": "喷泉",
+              "value": "喷泉"
+            },
+            {
+              "count": 20,
+              "showValue": "船支",
+              "value": "船支"
+            },
+            {
+              "count": 19,
+              "showValue": "加油站",
+              "value": "加油站"
+            },
+            {
+              "count": 19,
+              "showValue": "陵墓",
+              "value": "陵墓"
+            },
+            {
+              "count": 18,
+              "showValue": "阳台",
+              "value": "阳台"
+            },
+            {
+              "count": 17,
+              "showValue": "消防",
+              "value": "消防"
+            },
+            {
+              "count": 17,
+              "showValue": "游泳池",
+              "value": "游泳池"
+            },
+            {
+              "count": 15,
+              "showValue": "客舱",
+              "value": "客舱"
+            },
+            {
+              "count": 12,
+              "showValue": "卧室",
+              "value": "卧室"
+            },
+            {
+              "count": 11,
+              "showValue": "监狱",
+              "value": "监狱"
+            },
+            {
+              "count": 10,
+              "showValue": "拳击场",
+              "value": "拳击场"
+            },
+            {
+              "count": 10,
+              "showValue": "露营地",
+              "value": "露营地"
+            },
+            {
+              "count": 9,
+              "showValue": "瀑布",
+              "value": "瀑布"
+            },
+            {
+              "count": 8,
+              "showValue": "仓库",
+              "value": "仓库"
+            },
+            {
+              "count": 8,
+              "showValue": "法院",
+              "value": "法院"
+            },
+            {
+              "count": 8,
+              "showValue": "驾驶舱",
+              "value": "驾驶舱"
+            },
+            {
+              "count": 5,
+              "showValue": "亭子",
+              "value": "亭子"
+            },
+            {
+              "count": 4,
+              "showValue": "厨房",
+              "value": "厨房"
+            },
+            {
+              "count": 4,
+              "showValue": "咖啡厅",
+              "value": "咖啡厅"
+            },
+            {
+              "count": 4,
+              "showValue": "石窟",
+              "value": "石窟"
+            },
+            {
+              "count": 4,
+              "showValue": "雪屋/冰雕",
+              "value": "雪屋/冰雕"
+            },
+            {
+              "count": 3,
+              "showValue": "修理店",
+              "value": "修理店"
+            },
+            {
+              "count": 3,
+              "showValue": "池塘",
+              "value": "池塘"
+            },
+            {
+              "count": 3,
+              "showValue": "西式教堂",
+              "value": "西式教堂"
+            },
+            {
+              "count": 2,
+              "showValue": "健身房",
+              "value": "健身房"
+            },
+            {
+              "count": 1,
+              "showValue": "保龄球馆",
+              "value": "保龄球馆"
+            },
+            {
+              "count": 1,
+              "showValue": "动物屋舍",
+              "value": "动物屋舍"
+            },
+            {
+              "count": 1,
+              "showValue": "银行",
+              "value": "银行"
+            }
+          ]
+        },
+        {
+          "facetFieldName": "shotcategory",
+          "facetLayer": 1,
+          "facetShowName": "景别",
+          "facetValue": [
+            {
+              "count": 716,
+              "showValue": "没有人物",
+              "value": "没有人物"
+            },
+            {
+              "count": 584,
+              "showValue": "中景",
+              "value": "中景"
+            },
+            {
+              "count": 244,
+              "showValue": "远景",
+              "value": "远景"
+            },
+            {
+              "count": 62,
+              "showValue": "近景",
+              "value": "近景"
+            },
+            {
+              "count": 6,
+              "showValue": "特写",
+              "value": "特写"
+            }
+          ]
+        },
+        {
+          "facetFieldName": "video_category",
+          "facetLayer": 1,
+          "facetShowName": "视觉分类",
+          "facetValue": [
+            {
+              "count": 20693,
+              "showValue": "其他",
+              "value": "其他"
+            },
+            {
+              "count": 1695,
+              "showValue": "片花",
+              "value": "片花"
+            },
+            {
+              "count": 868,
+              "showValue": "other",
+              "value": "other"
+            },
+            {
+              "count": 614,
+              "showValue": "单人(演播室)",
+              "value": "单人(演播室)"
+            },
+            {
+              "count": 350,
+              "showValue": "人物",
+              "value": "人物"
+            },
+            {
+              "count": 261,
+              "showValue": "图表图画",
+              "value": "图表图画"
+            },
+            {
+              "count": 184,
+              "showValue": "face-shot",
+              "value": "face-shot"
+            },
+            {
+              "count": 115,
+              "showValue": "双人(演播室)",
+              "value": "双人(演播室)"
+            },
+            {
+              "count": 103,
+              "showValue": "graphic",
+              "value": "graphic"
+            },
+            {
+              "count": 76,
+              "showValue": "多人(演播室)",
+              "value": "多人(演播室)"
+            },
+            {
+              "count": 64,
+              "showValue": "non-info-graph",
+              "value": "non-info-graph"
+            },
+            {
+              "count": 55,
+              "showValue": "多视窗",
+              "value": "多视窗"
+            },
+            {
+              "count": 39,
+              "showValue": "info-graph",
+              "value": "info-graph"
+            },
+            {
+              "count": 31,
+              "showValue": "studio",
+              "value": "studio"
+            },
+            {
+              "count": 23,
+              "showValue": "one-face",
+              "value": "one-face"
+            },
+            {
+              "count": 17,
+              "showValue": "文字",
+              "value": "文字"
+            },
+            {
+              "count": 6,
+              "showValue": "two-face",
+              "value": "two-face"
+            },
+            {
+              "count": 2,
+              "showValue": "3+face",
+              "value": "3+face"
+            }
+          ]
+        },
+        {
+          "facetFieldName": "keyword",
+          "facetLayer": 1,
+          "facetShowName": "关键词",
+          "facetValue": [
+            {
+              "count": 202,
+              "showValue": "建设",
+              "value": "建设"
+            },
+            {
+              "count": 191,
+              "showValue": "习近平",
+              "value": "习近平"
+            },
+            {
+              "count": 163,
+              "showValue": "全国",
+              "value": "全国"
+            },
+            {
+              "count": 142,
+              "showValue": "会议",
+              "value": "会议"
+            },
+            {
+              "count": 142,
+              "showValue": "国家",
+              "value": "国家"
+            },
+            {
+              "count": 136,
+              "showValue": "推进",
+              "value": "推进"
+            },
+            {
+              "count": 127,
+              "showValue": "合作",
+              "value": "合作"
+            },
+            {
+              "count": 125,
+              "showValue": "精神",
+              "value": "精神"
+            },
+            {
+              "count": 120,
+              "showValue": "总书记",
+              "value": "总书记"
+            },
+            {
+              "count": 120,
+              "showValue": "推动",
+              "value": "推动"
+            },
+            {
+              "count": 118,
+              "showValue": "学习",
+              "value": "学习"
+            },
+            {
+              "count": 114,
+              "showValue": "广东",
+              "value": "广东"
+            },
+            {
+              "count": 112,
+              "showValue": "经济",
+              "value": "经济"
+            },
+            {
+              "count": 108,
+              "showValue": "政治",
+              "value": "政治"
+            },
+            {
+              "count": 107,
+              "showValue": "改革",
+              "value": "改革"
+            },
+            {
+              "count": 104,
+              "showValue": "活动",
+              "value": "活动"
+            },
+            {
+              "count": 99,
+              "showValue": "创新",
+              "value": "创新"
+            },
+            {
+              "count": 97,
+              "showValue": "国际",
+              "value": "国际"
+            },
+            {
+              "count": 94,
+              "showValue": "企业",
+              "value": "企业"
+            },
+            {
+              "count": 94,
+              "showValue": "报道",
+              "value": "报道"
+            },
+            {
+              "count": 94,
+              "showValue": "组织",
+              "value": "组织"
+            },
+            {
+              "count": 86,
+              "showValue": "新闻",
+              "value": "新闻"
+            },
+            {
+              "count": 85,
+              "showValue": "领导",
+              "value": "领导"
+            },
+            {
+              "count": 77,
+              "showValue": "社会",
+              "value": "社会"
+            },
+            {
+              "count": 76,
+              "showValue": "服务",
+              "value": "服务"
+            },
+            {
+              "count": 72,
+              "showValue": "城市",
+              "value": "城市"
+            },
+            {
+              "count": 61,
+              "showValue": "中央",
+              "value": "中央"
+            },
+            {
+              "count": 61,
+              "showValue": "政府",
+              "value": "政府"
+            },
+            {
+              "count": 60,
+              "showValue": "产业",
+              "value": "产业"
+            },
+            {
+              "count": 59,
+              "showValue": "主席",
+              "value": "主席"
+            },
+            {
+              "count": 59,
+              "showValue": "加快",
+              "value": "加快"
+            },
+            {
+              "count": 58,
+              "showValue": "落实",
+              "value": "落实"
+            },
+            {
+              "count": 57,
+              "showValue": "书记",
+              "value": "书记"
+            },
+            {
+              "count": 56,
+              "showValue": "希望",
+              "value": "希望"
+            },
+            {
+              "count": 55,
+              "showValue": "重点",
+              "value": "重点"
+            },
+            {
+              "count": 51,
+              "showValue": "增长",
+              "value": "增长"
+            },
+            {
+              "count": 50,
+              "showValue": "地区",
+              "value": "地区"
+            },
+            {
+              "count": 49,
+              "showValue": "努力",
+              "value": "努力"
+            },
+            {
+              "count": 48,
+              "showValue": "时代",
+              "value": "时代"
+            },
+            {
+              "count": 48,
+              "showValue": "省委",
+              "value": "省委"
+            },
+            {
+              "count": 46,
+              "showValue": "产品",
+              "value": "产品"
+            },
+            {
+              "count": 46,
+              "showValue": "领导人",
+              "value": "领导人"
+            },
+            {
+              "count": 45,
+              "showValue": "世界",
+              "value": "世界"
+            },
+            {
+              "count": 45,
+              "showValue": "群众",
+              "value": "群众"
+            },
+            {
+              "count": 45,
+              "showValue": "部门",
+              "value": "部门"
+            },
+            {
+              "count": 44,
+              "showValue": "教育",
+              "value": "教育"
+            },
+            {
+              "count": 43,
+              "showValue": "制度",
+              "value": "制度"
+            },
+            {
+              "count": 43,
+              "showValue": "特色",
+              "value": "特色"
+            },
+            {
+              "count": 42,
+              "showValue": "参加",
+              "value": "参加"
+            },
+            {
+              "count": 42,
+              "showValue": "总统",
+              "value": "总统"
+            },
+            {
+              "count": 41,
+              "showValue": "天气",
+              "value": "天气"
+            },
+            {
+              "count": 38,
+              "showValue": "出席",
+              "value": "出席"
+            },
+            {
+              "count": 38,
+              "showValue": "市场",
+              "value": "市场"
+            },
+            {
+              "count": 38,
+              "showValue": "报告",
+              "value": "报告"
+            },
+            {
+              "count": 37,
+              "showValue": "作出",
+              "value": "作出"
+            },
+            {
+              "count": 37,
+              "showValue": "正式",
+              "value": "正式"
+            },
+            {
+              "count": 37,
+              "showValue": "生态",
+              "value": "生态"
+            },
+            {
+              "count": 37,
+              "showValue": "观众",
+              "value": "观众"
+            },
+            {
+              "count": 36,
+              "showValue": "平台",
+              "value": "平台"
+            },
+            {
+              "count": 35,
+              "showValue": "成立",
+              "value": "成立"
+            },
+            {
+              "count": 35,
+              "showValue": "指出",
+              "value": "指出"
+            },
+            {
+              "count": 35,
+              "showValue": "系统",
+              "value": "系统"
+            },
+            {
+              "count": 34,
+              "showValue": "美国",
+              "value": "美国"
+            },
+            {
+              "count": 33,
+              "showValue": "主任",
+              "value": "主任"
+            },
+            {
+              "count": 33,
+              "showValue": "公司",
+              "value": "公司"
+            },
+            {
+              "count": 33,
+              "showValue": "环境",
+              "value": "环境"
+            },
+            {
+              "count": 33,
+              "showValue": "贯彻",
+              "value": "贯彻"
+            },
+            {
+              "count": 32,
+              "showValue": "保护",
+              "value": "保护"
+            },
+            {
+              "count": 32,
+              "showValue": "实施",
+              "value": "实施"
+            },
+            {
+              "count": 32,
+              "showValue": "提升",
+              "value": "提升"
+            },
+            {
+              "count": 32,
+              "showValue": "政策",
+              "value": "政策"
+            },
+            {
+              "count": 32,
+              "showValue": "调研",
+              "value": "调研"
+            },
+            {
+              "count": 32,
+              "showValue": "部署",
+              "value": "部署"
+            },
+            {
+              "count": 31,
+              "showValue": "会见",
+              "value": "会见"
+            },
+            {
+              "count": 31,
+              "showValue": "保障",
+              "value": "保障"
+            },
+            {
+              "count": 31,
+              "showValue": "大会",
+              "value": "大会"
+            },
+            {
+              "count": 31,
+              "showValue": "项目",
+              "value": "项目"
+            },
+            {
+              "count": 31,
+              "showValue": "领域",
+              "value": "领域"
+            },
+            {
+              "count": 30,
+              "showValue": "全球",
+              "value": "全球"
+            },
+            {
+              "count": 30,
+              "showValue": "发表",
+              "value": "发表"
+            },
+            {
+              "count": 30,
+              "showValue": "干部",
+              "value": "干部"
+            },
+            {
+              "count": 30,
+              "showValue": "改革开放",
+              "value": "改革开放"
+            },
+            {
+              "count": 30,
+              "showValue": "数据",
+              "value": "数据"
+            },
+            {
+              "count": 30,
+              "showValue": "治理",
+              "value": "治理"
+            },
+            {
+              "count": 29,
+              "showValue": "全市",
+              "value": "全市"
+            },
+            {
+              "count": 29,
+              "showValue": "周年",
+              "value": "周年"
+            },
+            {
+              "count": 29,
+              "showValue": "展示",
+              "value": "展示"
+            },
+            {
+              "count": 28,
+              "showValue": "开放",
+              "value": "开放"
+            },
+            {
+              "count": 28,
+              "showValue": "思想",
+              "value": "思想"
+            },
+            {
+              "count": 28,
+              "showValue": "总理",
+              "value": "总理"
+            },
+            {
+              "count": 28,
+              "showValue": "技术",
+              "value": "技术"
+            },
+            {
+              "count": 28,
+              "showValue": "收入",
+              "value": "收入"
+            },
+            {
+              "count": 27,
+              "showValue": "媒体",
+              "value": "媒体"
+            },
+            {
+              "count": 27,
+              "showValue": "收看",
+              "value": "收看"
+            },
+            {
+              "count": 27,
+              "showValue": "稳定",
+              "value": "稳定"
+            },
+            {
+              "count": 27,
+              "showValue": "管理",
+              "value": "管理"
+            },
+            {
+              "count": 26,
+              "showValue": "节目",
+              "value": "节目"
+            },
+            {
+              "count": 25,
+              "showValue": "委员会",
+              "value": "委员会"
+            },
+            {
+              "count": 25,
+              "showValue": "文化",
+              "value": "文化"
+            },
+            {
+              "count": 25,
+              "showValue": "科技",
+              "value": "科技"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "msg": null,
+  "privilegeResult": {
+    "noPrivilegeSearchCount": 35274,
+    "privilegeDetails": []
+  },
+  "queryResult": {
+    "currentPage": 1,
+    "pageSize": 20,
+    "result": [
+      {
+        "extensionResults": [],
+        "fieldAndValues": [
+          {
+            "field": "keyframeno",
+            "value": "0"
+          },
+          {
+            "field": "albums",
+            "value": " f3767d0766b64ca08a7ef9e61646d9b7"
+          },
+          {
+            "field": "privilegeUserGroup_",
+            "value": "owner_f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "_identity_",
+            "value": "metadata"
+          },
+          {
+            "field": "inpoint",
+            "value": "0"
+          },
+          {
+            "field": "title",
+            "value": "重庆会议-story"
+          },
+          {
+            "field": "metaid_",
+            "value": "464fc00a338d41b7bd13e56a593177bd_e2bb6a3d22fe4fe4a85eb38baff09cf9"
+          },
+          {
+            "field": "guid_",
+            "value": "e2bb6a3d22fe4fe4a85eb38baff09cf9"
+          },
+          {
+            "field": "eventorg",
+            "value": "中国共产党,国民党"
+          },
+          {
+            "field": "lastUpdateDate_",
+            "value": "2019-11-22 18:41:48"
+          },
+          {
+            "field": "createDate_",
+            "value": "2019-07-19 11:30:46"
+          },
+          {
+            "field": "keyword",
+            "value": "周永康,徐才厚,会议"
+          },
+          {
+            "field": "createUser_",
+            "value": "f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "storyid",
+            "value": "55b575a0ba0447a19e65bb5a443993fd"
+          },
+          {
+            "field": "system_",
+            "value": "MAM"
+          },
+          {
+            "field": "namespace_",
+            "value": "biz_sobey_video"
+          },
+          {
+            "field": "eventpeople",
+            "value": "周永康,徐才厚"
+          },
+          {
+            "field": "privilege_",
+            "value": "public_S1"
+          },
+          {
+            "field": "eventdate",
+            "value": "2019-07-08 17:00:00"
+          },
+          {
+            "field": "outpoint",
+            "value": "342000000"
+          },
+          {
+            "field": "contentId_",
+            "value": "464fc00a338d41b7bd13e56a593177bd"
+          },
+          {
+            "field": "eventplace",
+            "value": "重庆,北京"
+          },
+          {
+            "field": "site_",
+            "value": "S1"
+          },
+          {
+            "field": "type_",
+            "value": "model_sobey_smart_story"
+          },
+          {
+            "field": "distributionMark",
+            "value": "DEFAULT"
+          },
+          {
+            "field": "_version_",
+            "value": "1651885257979330560"
+          },
+          {
+            "field": "score",
+            "value": "1.0"
+          },
+          {
+            "field": "operateCode",
+            "value": "15"
+          }
+        ],
+        "uniqueId": "464fc00a338d41b7bd13e56a593177bd_e2bb6a3d22fe4fe4a85eb38baff09cf9"
+      },
+      {
+        "extensionResults": [],
+        "fieldAndValues": [
+          {
+            "field": "scenepeople",
+            "value": "徐才厚"
+          },
+          {
+            "field": "keyframeno",
+            "value": "115"
+          },
+          {
+            "field": "privilegeUserGroup_",
+            "value": "owner_f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "_identity_",
+            "value": "metadata"
+          },
+          {
+            "field": "scenename",
+            "value": "演播室-scene1"
+          },
+          {
+            "field": "inpoint",
+            "value": "46000000"
+          },
+          {
+            "field": "metaid_",
+            "value": "464fc00a338d41b7bd13e56a593177bd_65ad22e758c448e9b8dd80a3cf84bf13"
+          },
+          {
+            "field": "guid_",
+            "value": "65ad22e758c448e9b8dd80a3cf84bf13"
+          },
+          {
+            "field": "lastUpdateDate_",
+            "value": "2019-11-22 18:41:48"
+          },
+          {
+            "field": "createDate_",
+            "value": "2019-07-19 11:30:46"
+          },
+          {
+            "field": "behavior",
+            "value": "采访,播放"
+          },
+          {
+            "field": "createUser_",
+            "value": "f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "storyid",
+            "value": "55b575a0ba0447a19e65bb5a443993fd"
+          },
+          {
+            "field": "system_",
+            "value": "MAM"
+          },
+          {
+            "field": "namespace_",
+            "value": "biz_sobey_video"
+          },
+          {
+            "field": "privilege_",
+            "value": "public_S1"
+          },
+          {
+            "field": "outpoint",
+            "value": "47000000"
+          },
+          {
+            "field": "contentId_",
+            "value": "464fc00a338d41b7bd13e56a593177bd"
+          },
+          {
+            "field": "sceneid",
+            "value": "5255539284474dd2a3b33eeabdb2e3ed"
+          },
+          {
+            "field": "site_",
+            "value": "S1"
+          },
+          {
+            "field": "type_",
+            "value": "model_sobey_smart_scene"
+          },
+          {
+            "field": "distributionMark",
+            "value": "DEFAULT"
+          },
+          {
+            "field": "_version_",
+            "value": "1651885257985622016"
+          },
+          {
+            "field": "score",
+            "value": "1.0"
+          },
+          {
+            "field": "operateCode",
+            "value": "15"
+          }
+        ],
+        "uniqueId": "464fc00a338d41b7bd13e56a593177bd_65ad22e758c448e9b8dd80a3cf84bf13"
+      },
+      {
+        "extensionResults": [],
+        "fieldAndValues": [
+          {
+            "field": "scenepeople",
+            "value": "徐才厚,周永康"
+          },
+          {
+            "field": "keyframeno",
+            "value": "280"
+          },
+          {
+            "field": "privilegeUserGroup_",
+            "value": "owner_f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "_identity_",
+            "value": "metadata"
+          },
+          {
+            "field": "scenename",
+            "value": "演播室-scene2"
+          },
+          {
+            "field": "inpoint",
+            "value": "112000000"
+          },
+          {
+            "field": "metaid_",
+            "value": "464fc00a338d41b7bd13e56a593177bd_96d2ef120fa441b1b4279c6d600ddf81"
+          },
+          {
+            "field": "guid_",
+            "value": "96d2ef120fa441b1b4279c6d600ddf81"
+          },
+          {
+            "field": "lastUpdateDate_",
+            "value": "2019-11-22 18:41:48"
+          },
+          {
+            "field": "createDate_",
+            "value": "2019-07-19 11:30:46"
+          },
+          {
+            "field": "behavior",
+            "value": "采访,播放"
+          },
+          {
+            "field": "createUser_",
+            "value": "f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "storyid",
+            "value": "55b575a0ba0447a19e65bb5a443993fd"
+          },
+          {
+            "field": "system_",
+            "value": "MAM"
+          },
+          {
+            "field": "namespace_",
+            "value": "biz_sobey_video"
+          },
+          {
+            "field": "privilege_",
+            "value": "public_S1"
+          },
+          {
+            "field": "outpoint",
+            "value": "122000000"
+          },
+          {
+            "field": "contentId_",
+            "value": "464fc00a338d41b7bd13e56a593177bd"
+          },
+          {
+            "field": "sceneid",
+            "value": "5255539284474dd2a3b33eeabdb2e3ec"
+          },
+          {
+            "field": "site_",
+            "value": "S1"
+          },
+          {
+            "field": "type_",
+            "value": "model_sobey_smart_scene"
+          },
+          {
+            "field": "distributionMark",
+            "value": "DEFAULT"
+          },
+          {
+            "field": "_version_",
+            "value": "1651885257995059200"
+          },
+          {
+            "field": "score",
+            "value": "1.0"
+          },
+          {
+            "field": "operateCode",
+            "value": "15"
+          }
+        ],
+        "uniqueId": "464fc00a338d41b7bd13e56a593177bd_96d2ef120fa441b1b4279c6d600ddf81"
+      },
+      {
+        "extensionResults": [],
+        "fieldAndValues": [
+          {
+            "field": "keyframeno",
+            "value": "4"
+          },
+          {
+            "field": "privilegeUserGroup_",
+            "value": "owner_f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "_identity_",
+            "value": "metadata"
+          },
+          {
+            "field": "framerate",
+            "value": "25"
+          },
+          {
+            "field": "inpoint",
+            "value": "0"
+          },
+          {
+            "field": "title",
+            "value": "片头/片花"
+          },
+          {
+            "field": "metaid_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888_a97beb48e0914578a8eb41ec8a05c105"
+          },
+          {
+            "field": "guid_",
+            "value": "a97beb48e0914578a8eb41ec8a05c105"
+          },
+          {
+            "field": "lastUpdateDate_",
+            "value": "2019-11-22 18:49:43"
+          },
+          {
+            "field": "createDate_",
+            "value": "2019-09-26 14:21:50"
+          },
+          {
+            "field": "keyword",
+            "value": ""
+          },
+          {
+            "field": "smartstate",
+            "value": "1"
+          },
+          {
+            "field": "createUser_",
+            "value": "f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "storyid",
+            "value": "4eea7d99-4884-4121-a945-861ba035b11e"
+          },
+          {
+            "field": "system_",
+            "value": "MAM"
+          },
+          {
+            "field": "namespace_",
+            "value": "biz_sobey_video"
+          },
+          {
+            "field": "top_topics",
+            "value": "{\"政治\":0.10000000149011612,\"经济\":0.10000000149011612,\"城乡建设与环境\":0.10000000149011612,\"社会生活与社会问题\":0.10000000149011612,\"医药卫生\":0.10000000149011612}"
+          },
+          {
+            "field": "keyframepath",
+            "value": "\\\\172.0.0.242\\73\\hivefiles\\sobeyhive\\bucket-k\\u-yb02r5p5utj1lxp3\\2019\\09\\30\\e620b163b7964c9aa6064f89b0ab1bd1_videogroup_440_247_4.jpg"
+          },
+          {
+            "field": "privilege_",
+            "value": "public_S1"
+          },
+          {
+            "field": "outpoint",
+            "value": "230400000"
+          },
+          {
+            "field": "contentId_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888"
+          },
+          {
+            "field": "topic",
+            "value": "经济,政治,城乡建设与环境"
+          },
+          {
+            "field": "site_",
+            "value": "S1"
+          },
+          {
+            "field": "type_",
+            "value": "model_sobey_smart_story"
+          },
+          {
+            "field": "distributionMark",
+            "value": "DEFAULT"
+          },
+          {
+            "field": "_version_",
+            "value": "1651885343604998144"
+          },
+          {
+            "field": "score",
+            "value": "1.0"
+          },
+          {
+            "field": "operateCode",
+            "value": "15"
+          }
+        ],
+        "uniqueId": "0e98d9b1a1c24201bbcb0b8837c4c888_a97beb48e0914578a8eb41ec8a05c105"
+      },
+      {
+        "extensionResults": [],
+        "fieldAndValues": [
+          {
+            "field": "keyframeno",
+            "value": "724"
+          },
+          {
+            "field": "albums",
+            "value": " af0212ef55e347edaa37267c64cc7c5c 52bda1b494df43c68b48482ff59e3216 4f92db3f4d92491f84127eaa656afb59"
+          },
+          {
+            "field": "privilegeUserGroup_",
+            "value": "owner_f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "_identity_",
+            "value": "metadata"
+          },
+          {
+            "field": "framerate",
+            "value": "25"
+          },
+          {
+            "field": "inpoint",
+            "value": "230400000"
+          },
+          {
+            "field": "title",
+            "value": "广东:以更大作为推进改革开放,广东:深入牌性噬骁流载凝展,广州从化:绿色发展引领乡村振兴,\"五”假广东接游客142万人次"
+          },
+          {
+            "field": "metaid_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888_fc068c5f9a3e44dead8c2590b8e49914"
+          },
+          {
+            "field": "guid_",
+            "value": "fc068c5f9a3e44dead8c2590b8e49914"
+          },
+          {
+            "field": "eventorg",
+            "value": ""
+          },
+          {
+            "field": "lastUpdateDate_",
+            "value": "2019-11-22 18:49:43"
+          },
+          {
+            "field": "createDate_",
+            "value": "2019-09-26 14:21:50"
+          },
+          {
+            "field": "keyword",
+            "value": "收看,假期,游客,开放,特色,广东,广州,新闻,改革"
+          },
+          {
+            "field": "smartstate",
+            "value": "1"
+          },
+          {
+            "field": "createUser_",
+            "value": "f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "storyid",
+            "value": "57af4e09-e224-49b2-a0ce-ebcb950ebbd1"
+          },
+          {
+            "field": "system_",
+            "value": "MAM"
+          },
+          {
+            "field": "namespace_",
+            "value": "biz_sobey_video"
+          },
+          {
+            "field": "eventpeople",
+            "value": "习近平"
+          },
+          {
+            "field": "top_topics",
+            "value": "{\"经济\":0.11365911426643531,\"城乡建设与环境\":0.10361626620093982,\"军事\":0.11927356446782748,\"文化教育哲学宗教\":0.36375345413883525,\"娱乐休闲\":0.18333053526779017}"
+          },
+          {
+            "field": "keyframepath",
+            "value": "\\\\172.0.0.242\\73\\hivefiles\\sobeyhive\\bucket-k\\u-yb02r5p5utj1lxp3\\2019\\09\\30\\e620b163b7964c9aa6064f89b0ab1bd1_videogroup_440_247_724.jpg"
+          },
+          {
+            "field": "privilege_",
+            "value": "public_S1"
+          },
+          {
+            "field": "eventdate",
+            "value": "2018年5月2号星期三,五一"
+          },
+          {
+            "field": "outpoint",
+            "value": "668800000"
+          },
+          {
+            "field": "contentId_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888"
+          },
+          {
+            "field": "topic",
+            "value": "文化教育哲学宗教,娱乐休闲,军事"
+          },
+          {
+            "field": "eventplace",
+            "value": "广东,广州"
+          },
+          {
+            "field": "site_",
+            "value": "S1"
+          },
+          {
+            "field": "type_",
+            "value": "model_sobey_smart_story"
+          },
+          {
+            "field": "distributionMark",
+            "value": "DEFAULT"
+          },
+          {
+            "field": "_version_",
+            "value": "1651885343612338176"
+          },
+          {
+            "field": "score",
+            "value": "1.0"
+          },
+          {
+            "field": "operateCode",
+            "value": "15"
+          }
+        ],
+        "uniqueId": "0e98d9b1a1c24201bbcb0b8837c4c888_fc068c5f9a3e44dead8c2590b8e49914"
+      },
+      {
+        "extensionResults": [],
+        "fieldAndValues": [
+          {
+            "field": "keyframeno",
+            "value": "2104"
+          },
+          {
+            "field": "albums",
+            "value": " af0212ef55e347edaa37267c64cc7c5c 52bda1b494df43c68b48482ff59e3216 4f92db3f4d92491f84127eaa656afb59"
+          },
+          {
+            "field": "privilegeUserGroup_",
+            "value": "owner_f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "_identity_",
+            "value": "metadata"
+          },
+          {
+            "field": "framerate",
+            "value": "25"
+          },
+          {
+            "field": "inpoint",
+            "value": "668800000"
+          },
+          {
+            "field": "title",
+            "value": "王播枉偶“,同时对于全省将近5方备处以上的干部,汤女士广州南沙企业负责人"
+          },
+          {
+            "field": "metaid_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888_b32d4740de3b428f9cd637e9d77d3d97"
+          },
+          {
+            "field": "guid_",
+            "value": "b32d4740de3b428f9cd637e9d77d3d97"
+          },
+          {
+            "field": "eventorg",
+            "value": "省委党校,广东省委,广东省发改科技经信,中央台广东台"
+          },
+          {
+            "field": "lastUpdateDate_",
+            "value": "2019-11-22 18:49:43"
+          },
+          {
+            "field": "createDate_",
+            "value": "2019-09-26 14:21:50"
+          },
+          {
+            "field": "keyword",
+            "value": "口岸,海关,改革开放,调研,落实,办理,特色,广东,报道,香港,学习,创新,推出,时代,改革,产业,实施,部门,业务,建设,数据,政府,政策,资金,企业"
+          },
+          {
+            "field": "smartstate",
+            "value": "1"
+          },
+          {
+            "field": "createUser_",
+            "value": "f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "storyid",
+            "value": "247c6cc9-3d39-41d6-9232-61310e7d4f28"
+          },
+          {
+            "field": "system_",
+            "value": "MAM"
+          },
+          {
+            "field": "namespace_",
+            "value": "biz_sobey_video"
+          },
+          {
+            "field": "eventpeople",
+            "value": "习近平,夏琳,王播,习平"
+          },
+          {
+            "field": "top_topics",
+            "value": "{\"政治\":0.07806405487159888,\"经济\":0.2769024943312009,\"城乡建设与环境\":0.12848026057084402,\"军事\":0.18603100130955377,\"文化教育哲学宗教\":0.29587328682343167}"
+          },
+          {
+            "field": "keyframepath",
+            "value": "\\\\172.0.0.242\\73\\hivefiles\\sobeyhive\\bucket-k\\u-yb02r5p5utj1lxp3\\2019\\09\\30\\e620b163b7964c9aa6064f89b0ab1bd1_videogroup_440_247_2104.jpg"
+          },
+          {
+            "field": "privilege_",
+            "value": "public_S1"
+          },
+          {
+            "field": "eventdate",
+            "value": "三个月,2019年4月11号"
+          },
+          {
+            "field": "outpoint",
+            "value": "3481600000"
+          },
+          {
+            "field": "contentId_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888"
+          },
+          {
+            "field": "topic",
+            "value": "文化教育哲学宗教,经济"
+          },
+          {
+            "field": "eventplace",
+            "value": "广东,广东自贸试验区南沙片区,蓬镇口岸,粤港澳大湾区,深圳莲塘口岸,深圳香港,莲塘口岸,珠三角粤港澳大湾区,粤北,粤港澳湾区"
+          },
+          {
+            "field": "site_",
+            "value": "S1"
+          },
+          {
+            "field": "type_",
+            "value": "model_sobey_smart_story"
+          },
+          {
+            "field": "distributionMark",
+            "value": "DEFAULT"
+          },
+          {
+            "field": "_version_",
+            "value": "1651885343620726784"
+          },
+          {
+            "field": "score",
+            "value": "1.0"
+          },
+          {
+            "field": "operateCode",
+            "value": "15"
+          }
+        ],
+        "uniqueId": "0e98d9b1a1c24201bbcb0b8837c4c888_b32d4740de3b428f9cd637e9d77d3d97"
+      },
+      {
+        "extensionResults": [],
+        "fieldAndValues": [
+          {
+            "field": "keyframeno",
+            "value": "9324"
+          },
+          {
+            "field": "albums",
+            "value": " 4f92db3f4d92491f84127eaa656afb59"
+          },
+          {
+            "field": "privilegeUserGroup_",
+            "value": "owner_f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "_identity_",
+            "value": "metadata"
+          },
+          {
+            "field": "framerate",
+            "value": "25"
+          },
+          {
+            "field": "inpoint",
+            "value": "3481600000"
+          },
+          {
+            "field": "title",
+            "value": "广东：深入推进供给侧结构性改革"
+          },
+          {
+            "field": "metaid_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888_325f56298b904c088b1bd3659e7c8842"
+          },
+          {
+            "field": "guid_",
+            "value": "325f56298b904c088b1bd3659e7c8842"
+          },
+          {
+            "field": "eventorg",
+            "value": "广东台,中国海洋石油集团有限公司,河南皇家壳牌公司,中海壳牌,中国海油炼油厂惠州石化,中船黄埔文冲船舶有限公司"
+          },
+          {
+            "field": "lastUpdateDate_",
+            "value": "2019-11-22 18:49:43"
+          },
+          {
+            "field": "createDate_",
+            "value": "2019-09-26 14:21:50"
+          },
+          {
+            "field": "keyword",
+            "value": "平台,广东,广州,报道,质量,成本,创新,推出,改革,产业,同比,正式,集团,建设,项目,全国,管理,增长,投资,经济,公司,市场"
+          },
+          {
+            "field": "smartstate",
+            "value": "1"
+          },
+          {
+            "field": "createUser_",
+            "value": "f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "storyid",
+            "value": "1713d95d-b501-44b3-bb99-69f70b808c75"
+          },
+          {
+            "field": "system_",
+            "value": "MAM"
+          },
+          {
+            "field": "namespace_",
+            "value": "biz_sobey_video"
+          },
+          {
+            "field": "eventpeople",
+            "value": "习近平"
+          },
+          {
+            "field": "top_topics",
+            "value": "{\"政治\":0.0420451553654857,\"经济\":0.6738688051700592,\"城乡建设与环境\":0.09728419658495113,\"文化教育哲学宗教\":0.05006519128801301,\"军事\":0.09020513761788607}"
+          },
+          {
+            "field": "keyframepath",
+            "value": "\\\\172.0.0.242\\73\\hivefiles\\sobeyhive\\bucket-k\\u-yb02r5p5utj1lxp3\\2019\\09\\27\\21a798fb8b60453b8ab3e8333c7ad6ec_videogroup_440_247_9324.jpg"
+          },
+          {
+            "field": "privilege_",
+            "value": "public_S1"
+          },
+          {
+            "field": "eventdate",
+            "value": "4月底,2019年3月7号"
+          },
+          {
+            "field": "outpoint",
+            "value": "5443200000"
+          },
+          {
+            "field": "contentId_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888"
+          },
+          {
+            "field": "topic",
+            "value": "经济,城乡建设与环境"
+          },
+          {
+            "field": "eventplace",
+            "value": "广东,广东惠州,惠州大亚湾石化区,惠州,广州南沙,白云国际机场2号航站楼"
+          },
+          {
+            "field": "site_",
+            "value": "S1"
+          },
+          {
+            "field": "type_",
+            "value": "model_sobey_smart_story"
+          },
+          {
+            "field": "distributionMark",
+            "value": "DEFAULT"
+          },
+          {
+            "field": "_version_",
+            "value": "1651885343628066816"
+          },
+          {
+            "field": "score",
+            "value": "1.0"
+          },
+          {
+            "field": "operateCode",
+            "value": "15"
+          }
+        ],
+        "uniqueId": "0e98d9b1a1c24201bbcb0b8837c4c888_325f56298b904c088b1bd3659e7c8842"
+      },
+      {
+        "extensionResults": [],
+        "fieldAndValues": [
+          {
+            "field": "keyframeno",
+            "value": "13978"
+          },
+          {
+            "field": "privilegeUserGroup_",
+            "value": "owner_f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "_identity_",
+            "value": "metadata"
+          },
+          {
+            "field": "framerate",
+            "value": "25"
+          },
+          {
+            "field": "inpoint",
+            "value": "5443200000"
+          },
+          {
+            "field": "title",
+            "value": "王播吴娜“【,播吴娅一一"
+          },
+          {
+            "field": "metaid_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888_7dfad1299bb54d82ad430cb0b6331a37"
+          },
+          {
+            "field": "guid_",
+            "value": "7dfad1299bb54d82ad430cb0b6331a37"
+          },
+          {
+            "field": "lastUpdateDate_",
+            "value": "2019-11-22 18:49:43"
+          },
+          {
+            "field": "createDate_",
+            "value": "2019-09-26 14:21:50"
+          },
+          {
+            "field": "keyword",
+            "value": "体制,抓住,农村,机制,产业,政策"
+          },
+          {
+            "field": "smartstate",
+            "value": "1"
+          },
+          {
+            "field": "createUser_",
+            "value": "f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "storyid",
+            "value": "0838ab3d-68cd-4546-b34f-1365d164e0c8"
+          },
+          {
+            "field": "system_",
+            "value": "MAM"
+          },
+          {
+            "field": "namespace_",
+            "value": "biz_sobey_video"
+          },
+          {
+            "field": "top_topics",
+            "value": "{\"政治\":0.003922305069863796,\"经济\":0.28958600759506226,\"城乡建设与环境\":0.42357465624809265,\"医药卫生\":0.1299642026424408,\"军事\":0.13334131240844727}"
+          },
+          {
+            "field": "keyframepath",
+            "value": "\\\\172.0.0.242\\73\\hivefiles\\sobeyhive\\bucket-k\\u-yb02r5p5utj1lxp3\\2019\\09\\30\\e620b163b7964c9aa6064f89b0ab1bd1_videogroup_440_247_13978.jpg"
+          },
+          {
+            "field": "privilege_",
+            "value": "public_S1"
+          },
+          {
+            "field": "outpoint",
+            "value": "5739200000"
+          },
+          {
+            "field": "contentId_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888"
+          },
+          {
+            "field": "topic",
+            "value": "城乡建设与环境,经济"
+          },
+          {
+            "field": "site_",
+            "value": "S1"
+          },
+          {
+            "field": "type_",
+            "value": "model_sobey_smart_story"
+          },
+          {
+            "field": "distributionMark",
+            "value": "DEFAULT"
+          },
+          {
+            "field": "_version_",
+            "value": "1651885343636455424"
+          },
+          {
+            "field": "score",
+            "value": "1.0"
+          },
+          {
+            "field": "operateCode",
+            "value": "15"
+          }
+        ],
+        "uniqueId": "0e98d9b1a1c24201bbcb0b8837c4c888_7dfad1299bb54d82ad430cb0b6331a37"
+      },
+      {
+        "extensionResults": [],
+        "fieldAndValues": [
+          {
+            "field": "keyframeno",
+            "value": "14412"
+          },
+          {
+            "field": "albums",
+            "value": " af0212ef55e347edaa37267c64cc7c5c 52bda1b494df43c68b48482ff59e3216 4f92db3f4d92491f84127eaa656afb59"
+          },
+          {
+            "field": "privilegeUserGroup_",
+            "value": "owner_f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "_identity_",
+            "value": "metadata"
+          },
+          {
+            "field": "framerate",
+            "value": "25"
+          },
+          {
+            "field": "inpoint",
+            "value": "5739200000"
+          },
+          {
+            "field": "title",
+            "value": "习近平新时代中国特色社会主义思想,新时代新作为新荔聋,习近平新时代中国特色社会主义思想,新时代新作为新篇章,·新时代新作为新荔李,广州从化：绿色发展引领乡村振兴"
+          },
+          {
+            "field": "metaid_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888_1ccd57ce7d9d441c915349b6d40d36da"
+          },
+          {
+            "field": "guid_",
+            "value": "1ccd57ce7d9d441c915349b6d40d36da"
+          },
+          {
+            "field": "eventorg",
+            "value": ""
+          },
+          {
+            "field": "lastUpdateDate_",
+            "value": "2019-11-22 18:49:43"
+          },
+          {
+            "field": "createDate_",
+            "value": "2019-09-26 14:21:50"
+          },
+          {
+            "field": "keyword",
+            "value": "五一,小镇,乐趣,假期,游客,广州"
+          },
+          {
+            "field": "smartstate",
+            "value": "1"
+          },
+          {
+            "field": "createUser_",
+            "value": "f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "storyid",
+            "value": "efe264e5-d0b0-41bb-98eb-afea92946e5f"
+          },
+          {
+            "field": "system_",
+            "value": "MAM"
+          },
+          {
+            "field": "namespace_",
+            "value": "biz_sobey_video"
+          },
+          {
+            "field": "eventpeople",
+            "value": "习近平,许时"
+          },
+          {
+            "field": "top_topics",
+            "value": "{\"城乡建设与环境\":0.2352777123451233,\"医药卫生\":0.08686743676662445,\"军事\":0.09652352333068848,\"文化教育哲学宗教\":0.24007648229599,\"娱乐休闲\":0.3184523582458496}"
+          },
+          {
+            "field": "keyframepath",
+            "value": "\\\\172.0.0.242\\73\\hivefiles\\sobeyhive\\bucket-k\\u-yb02r5p5utj1lxp3\\2019\\09\\30\\e620b163b7964c9aa6064f89b0ab1bd1_videogroup_440_247_14412.jpg"
+          },
+          {
+            "field": "privilege_",
+            "value": "public_S1"
+          },
+          {
+            "field": "eventdate",
+            "value": "2016年,五一"
+          },
+          {
+            "field": "outpoint",
+            "value": "6064000000"
+          },
+          {
+            "field": "contentId_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888"
+          },
+          {
+            "field": "topic",
+            "value": "娱乐休闲,文化教育哲学宗教"
+          },
+          {
+            "field": "eventplace",
+            "value": "广州从化区莲麻村,广州,从化区,莲麻村,连马村,广东"
+          },
+          {
+            "field": "site_",
+            "value": "S1"
+          },
+          {
+            "field": "type_",
+            "value": "model_sobey_smart_story"
+          },
+          {
+            "field": "distributionMark",
+            "value": "DEFAULT"
+          },
+          {
+            "field": "_version_",
+            "value": "1651885343643795456"
+          },
+          {
+            "field": "score",
+            "value": "1.0"
+          },
+          {
+            "field": "operateCode",
+            "value": "15"
+          }
+        ],
+        "uniqueId": "0e98d9b1a1c24201bbcb0b8837c4c888_1ccd57ce7d9d441c915349b6d40d36da"
+      },
+      {
+        "extensionResults": [],
+        "fieldAndValues": [
+          {
+            "field": "keyframeno",
+            "value": "15184"
+          },
+          {
+            "field": "albums",
+            "value": " 4f92db3f4d92491f84127eaa656afb59"
+          },
+          {
+            "field": "privilegeUserGroup_",
+            "value": "owner_f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "_identity_",
+            "value": "metadata"
+          },
+          {
+            "field": "framerate",
+            "value": "25"
+          },
+          {
+            "field": "inpoint",
+            "value": "6064000000"
+          },
+          {
+            "field": "title",
+            "value": "习近平新时代中国特色社会主义思想,】时代新作为新篇章"
+          },
+          {
+            "field": "metaid_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888_33fedb10e1f9438ba352061e9072ca37"
+          },
+          {
+            "field": "guid_",
+            "value": "33fedb10e1f9438ba352061e9072ca37"
+          },
+          {
+            "field": "eventorg",
+            "value": ""
+          },
+          {
+            "field": "lastUpdateDate_",
+            "value": "2019-11-22 18:49:43"
+          },
+          {
+            "field": "createDate_",
+            "value": "2019-09-26 14:21:50"
+          },
+          {
+            "field": "keyword",
+            "value": "生态,村民,带动,规划,提升,回来,技术"
+          },
+          {
+            "field": "smartstate",
+            "value": "1"
+          },
+          {
+            "field": "createUser_",
+            "value": "f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "storyid",
+            "value": "71d6187c-bb6c-4d32-8c60-d8b01bad3560"
+          },
+          {
+            "field": "system_",
+            "value": "MAM"
+          },
+          {
+            "field": "namespace_",
+            "value": "biz_sobey_video"
+          },
+          {
+            "field": "eventpeople",
+            "value": "习近平,纪秀,潘光灶"
+          },
+          {
+            "field": "top_topics",
+            "value": "{\"经济\":0.32565048336982727,\"城乡建设与环境\":0.29447028040885925,\"文学艺术\":0.05559217557311058,\"文化教育哲学宗教\":0.1381840854883194,\"娱乐休闲\":0.1665971577167511}"
+          },
+          {
+            "field": "keyframepath",
+            "value": "\\\\172.0.0.242\\73\\hivefiles\\sobeyhive\\bucket-k\\u-yb02r5p5utj1lxp3\\2019\\09\\30\\e620b163b7964c9aa6064f89b0ab1bd1_videogroup_440_247_15184.jpg"
+          },
+          {
+            "field": "privilege_",
+            "value": "public_S1"
+          },
+          {
+            "field": "eventdate",
+            "value": "五一"
+          },
+          {
+            "field": "outpoint",
+            "value": "6544000000"
+          },
+          {
+            "field": "contentId_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888"
+          },
+          {
+            "field": "topic",
+            "value": "经济,城乡建设与环境"
+          },
+          {
+            "field": "eventplace",
+            "value": "莲麻村,广东,广六浦道,彭新道,成新道,深圳,广州从化区莲麻村"
+          },
+          {
+            "field": "site_",
+            "value": "S1"
+          },
+          {
+            "field": "type_",
+            "value": "model_sobey_smart_story"
+          },
+          {
+            "field": "distributionMark",
+            "value": "DEFAULT"
+          },
+          {
+            "field": "_version_",
+            "value": "1651885343651135488"
+          },
+          {
+            "field": "score",
+            "value": "1.0"
+          },
+          {
+            "field": "operateCode",
+            "value": "15"
+          }
+        ],
+        "uniqueId": "0e98d9b1a1c24201bbcb0b8837c4c888_33fedb10e1f9438ba352061e9072ca37"
+      },
+      {
+        "extensionResults": [],
+        "fieldAndValues": [
+          {
+            "field": "keyframeno",
+            "value": "16408"
+          },
+          {
+            "field": "albums",
+            "value": " af0212ef55e347edaa37267c64cc7c5c 52bda1b494df43c68b48482ff59e3216 4f92db3f4d92491f84127eaa656afb59"
+          },
+          {
+            "field": "privilegeUserGroup_",
+            "value": "owner_f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "_identity_",
+            "value": "metadata"
+          },
+          {
+            "field": "framerate",
+            "value": "25"
+          },
+          {
+            "field": "inpoint",
+            "value": "6544000000"
+          },
+          {
+            "field": "title",
+            "value": "习近平新时代中国特色社会主义思想,】时代新作为新荔遂,】时代新作为新篇鸢,硚议。一国就蟊证朝醉买闭移试蟊场寻球联否国持，意天和一,】把我们旅游带旺,习近平新时代中国特色社会主义思想,新时代新作为新篇章,广州从化：绿色发展引领乡村振兴,潘翠玲宝趣玫瑰世界董事长,记害蘑建植“辉“广州台报道一"
+          },
+          {
+            "field": "metaid_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888_11d063daba784f03a2fcc0d984359f9c"
+          },
+          {
+            "field": "guid_",
+            "value": "11d063daba784f03a2fcc0d984359f9c"
+          },
+          {
+            "field": "eventorg",
+            "value": "广州台,泰外茭部,联合国,民政部,最高检部,高石政法院,外交部,公安部,高石政活院,泰国最高石政活院,泰外交部,白宫,泰国最高行,暴乐交部"
+          },
+          {
+            "field": "lastUpdateDate_",
+            "value": "2019-11-22 18:49:43"
+          },
+          {
+            "field": "createDate_",
+            "value": "2019-09-26 14:21:50"
+          },
+          {
+            "field": "keyword",
+            "value": "最蒿丽,旅游,模式,报道,家庭,创新,产业,收入,稳定,企业,经济,公司"
+          },
+          {
+            "field": "smartstate",
+            "value": "1"
+          },
+          {
+            "field": "createUser_",
+            "value": "f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "storyid",
+            "value": "37f85ccd-0b82-4438-9228-b3d97209d61e"
+          },
+          {
+            "field": "system_",
+            "value": "MAM"
+          },
+          {
+            "field": "namespace_",
+            "value": "biz_sobey_video"
+          },
+          {
+            "field": "eventpeople",
+            "value": "习近平,他信,唐建恒(广东台记者),邱活冠,邓屏,高裕郅,汪双福,建恒(记客),姚辉"
+          },
+          {
+            "field": "top_topics",
+            "value": "{\"经济\":0.3739042282104492,\"城乡建设与环境\":0.33767542243003845,\"医药卫生\":0.04793647676706314,\"文化教育哲学宗教\":0.05438080430030823,\"娱乐休闲\":0.12930648028850555}"
+          },
+          {
+            "field": "keyframepath",
+            "value": "\\\\172.0.0.242\\73\\hivefiles\\sobeyhive\\bucket-k\\u-yb02r5p5utj1lxp3\\2019\\09\\30\\e620b163b7964c9aa6064f89b0ab1bd1_videogroup_440_247_16408.jpg"
+          },
+          {
+            "field": "privilege_",
+            "value": "public_S1"
+          },
+          {
+            "field": "eventdate",
+            "value": "2017年,三个月,五一"
+          },
+          {
+            "field": "outpoint",
+            "value": "7689600000"
+          },
+          {
+            "field": "contentId_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888"
+          },
+          {
+            "field": "topic",
+            "value": "经济,城乡建设与环境"
+          },
+          {
+            "field": "eventplace",
+            "value": "莲麻村,化区,广州,化区城郊街,西河村,广州从化区,广京,广东,广南,南京,日笨文暖球影城,泰国,韩国,伊朗,江新连云港,意天利,朝鲜,江苏连云港,日本大阪,日本关阪环球影城,日杰大阪环球影城,广州从化"
+          },
+          {
+            "field": "site_",
+            "value": "S1"
+          },
+          {
+            "field": "type_",
+            "value": "model_sobey_smart_story"
+          },
+          {
+            "field": "distributionMark",
+            "value": "DEFAULT"
+          },
+          {
+            "field": "_version_",
+            "value": "1651885343656378368"
+          },
+          {
+            "field": "score",
+            "value": "1.0"
+          },
+          {
+            "field": "operateCode",
+            "value": "15"
+          }
+        ],
+        "uniqueId": "0e98d9b1a1c24201bbcb0b8837c4c888_11d063daba784f03a2fcc0d984359f9c"
+      },
+      {
+        "extensionResults": [],
+        "fieldAndValues": [
+          {
+            "field": "keyframeno",
+            "value": "19370"
+          },
+          {
+            "field": "privilegeUserGroup_",
+            "value": "owner_f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "_identity_",
+            "value": "metadata"
+          },
+          {
+            "field": "framerate",
+            "value": "25"
+          },
+          {
+            "field": "inpoint",
+            "value": "7689600000"
+          },
+          {
+            "field": "title",
+            "value": "实现旅游收入85.01亿元增长1437%,接待游客19万人次同比增长6.9%,收入2573.5万元"
+          },
+          {
+            "field": "metaid_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888_ffc3243a21e04f2bb72afa688e2342a9"
+          },
+          {
+            "field": "guid_",
+            "value": "ffc3243a21e04f2bb72afa688e2342a9"
+          },
+          {
+            "field": "eventorg",
+            "value": "东省安全监管局,广东省安全监管局,天省安全监管局"
+          },
+          {
+            "field": "lastUpdateDate_",
+            "value": "2019-11-22 18:49:43"
+          },
+          {
+            "field": "createDate_",
+            "value": "2019-09-26 14:21:50"
+          },
+          {
+            "field": "keyword",
+            "value": "五一,五一,假期,景区,体验,游客,前往,独特,旅游,广东,期间,活动"
+          },
+          {
+            "field": "smartstate",
+            "value": "1"
+          },
+          {
+            "field": "createUser_",
+            "value": "f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "storyid",
+            "value": "c9b43669-182f-47df-9e69-0db080950488"
+          },
+          {
+            "field": "system_",
+            "value": "MAM"
+          },
+          {
+            "field": "namespace_",
+            "value": "biz_sobey_video"
+          },
+          {
+            "field": "eventpeople",
+            "value": "齐柳(广东台记者),郎樱"
+          },
+          {
+            "field": "top_topics",
+            "value": "{\"政治\":0.0034634952899068594,\"经济\":0.4658217281103134,\"城乡建设与环境\":0.058402277529239655,\"社会生活与社会问题\":0.0034634952899068594,\"娱乐休闲\":0.4515315294265747}"
+          },
+          {
+            "field": "keyframepath",
+            "value": "\\\\172.0.0.242\\73\\hivefiles\\sobeyhive\\bucket-k\\u-yb02r5p5utj1lxp3\\2019\\09\\30\\e620b163b7964c9aa6064f89b0ab1bd1_videogroup_440_247_19370.jpg"
+          },
+          {
+            "field": "privilege_",
+            "value": "public_S1"
+          },
+          {
+            "field": "eventdate",
+            "value": "五一,5月1号下午"
+          },
+          {
+            "field": "outpoint",
+            "value": "8619200000"
+          },
+          {
+            "field": "contentId_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888"
+          },
+          {
+            "field": "topic",
+            "value": "经济,娱乐休闲"
+          },
+          {
+            "field": "eventplace",
+            "value": "广东,广新,日本天阪,丹霞山,广东个滨海,惠州巽寮湾大亚湾,南粤古驿道,南粤古一,广庆,广京,广东市,广州,南粤古驿道景区"
+          },
+          {
+            "field": "site_",
+            "value": "S1"
+          },
+          {
+            "field": "type_",
+            "value": "model_sobey_smart_story"
+          },
+          {
+            "field": "distributionMark",
+            "value": "DEFAULT"
+          },
+          {
+            "field": "_version_",
+            "value": "1651885343661621248"
+          },
+          {
+            "field": "score",
+            "value": "1.0"
+          },
+          {
+            "field": "operateCode",
+            "value": "15"
+          }
+        ],
+        "uniqueId": "0e98d9b1a1c24201bbcb0b8837c4c888_ffc3243a21e04f2bb72afa688e2342a9"
+      },
+      {
+        "extensionResults": [],
+        "fieldAndValues": [
+          {
+            "field": "keyframeno",
+            "value": "21886"
+          },
+          {
+            "field": "privilegeUserGroup_",
+            "value": "owner_f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "_identity_",
+            "value": "metadata"
+          },
+          {
+            "field": "framerate",
+            "value": "25"
+          },
+          {
+            "field": "inpoint",
+            "value": "8619200000"
+          },
+          {
+            "field": "title",
+            "value": "[无标题]"
+          },
+          {
+            "field": "metaid_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888_e4fab81252a54f89b88ad82f2754d199"
+          },
+          {
+            "field": "guid_",
+            "value": "e4fab81252a54f89b88ad82f2754d199"
+          },
+          {
+            "field": "lastUpdateDate_",
+            "value": "2019-11-22 18:49:43"
+          },
+          {
+            "field": "createDate_",
+            "value": "2019-09-26 14:21:50"
+          },
+          {
+            "field": "keyword",
+            "value": "广东新闻联播,四个,体系,报告,建设,全国,经济"
+          },
+          {
+            "field": "smartstate",
+            "value": "1"
+          },
+          {
+            "field": "createUser_",
+            "value": "f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "storyid",
+            "value": "692580a9-a3c5-4072-888c-9870cf5d2784"
+          },
+          {
+            "field": "system_",
+            "value": "MAM"
+          },
+          {
+            "field": "namespace_",
+            "value": "biz_sobey_video"
+          },
+          {
+            "field": "top_topics",
+            "value": "{\"政治\":0.0048981234431266785,\"经济\":0.3315349817276001,\"军事\":0.03734023869037628,\"文化教育哲学宗教\":0.4232988655567169,\"娱乐休闲\":0.17843717336654663}"
+          },
+          {
+            "field": "keyframepath",
+            "value": "\\\\172.0.0.242\\73\\hivefiles\\sobeyhive\\bucket-k\\u-yb02r5p5utj1lxp3\\2019\\09\\30\\e620b163b7964c9aa6064f89b0ab1bd1_videogroup_440_247_21886.jpg"
+          },
+          {
+            "field": "privilege_",
+            "value": "public_S1"
+          },
+          {
+            "field": "outpoint",
+            "value": "8889600000"
+          },
+          {
+            "field": "contentId_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888"
+          },
+          {
+            "field": "topic",
+            "value": "文化教育哲学宗教,经济"
+          },
+          {
+            "field": "site_",
+            "value": "S1"
+          },
+          {
+            "field": "type_",
+            "value": "model_sobey_smart_story"
+          },
+          {
+            "field": "distributionMark",
+            "value": "DEFAULT"
+          },
+          {
+            "field": "_version_",
+            "value": "1651885343665815552"
+          },
+          {
+            "field": "score",
+            "value": "1.0"
+          },
+          {
+            "field": "operateCode",
+            "value": "15"
+          }
+        ],
+        "uniqueId": "0e98d9b1a1c24201bbcb0b8837c4c888_e4fab81252a54f89b88ad82f2754d199"
+      },
+      {
+        "extensionResults": [],
+        "fieldAndValues": [
+          {
+            "field": "keyframeno",
+            "value": "22260"
+          },
+          {
+            "field": "privilegeUserGroup_",
+            "value": "owner_f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "_identity_",
+            "value": "metadata"
+          },
+          {
+            "field": "framerate",
+            "value": "25"
+          },
+          {
+            "field": "inpoint",
+            "value": "8889600000"
+          },
+          {
+            "field": "title",
+            "value": "弘扬新时代工匠精神推进经济高质量发展"
+          },
+          {
+            "field": "metaid_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888_a129dac120514f3a960d5a2412100ccb"
+          },
+          {
+            "field": "guid_",
+            "value": "a129dac120514f3a960d5a2412100ccb"
+          },
+          {
+            "field": "eventorg",
+            "value": "药监局,食药监局,广东省纪委监委,省食药监局,广东否纪委监委"
+          },
+          {
+            "field": "lastUpdateDate_",
+            "value": "2019-11-22 18:49:43"
+          },
+          {
+            "field": "createDate_",
+            "value": "2019-09-26 14:21:50"
+          },
+          {
+            "field": "keyword",
+            "value": "盾构,汇聚,工业产值,文明,创新,正式,工业,企业"
+          },
+          {
+            "field": "smartstate",
+            "value": "1"
+          },
+          {
+            "field": "createUser_",
+            "value": "f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "storyid",
+            "value": "6eb03761-5b04-49cc-9520-0022a2c6b47d"
+          },
+          {
+            "field": "system_",
+            "value": "MAM"
+          },
+          {
+            "field": "namespace_",
+            "value": "biz_sobey_video"
+          },
+          {
+            "field": "eventpeople",
+            "value": "骆庆明"
+          },
+          {
+            "field": "top_topics",
+            "value": "{\"经济\":0.05518941581249237,\"城乡建设与环境\":0.4698045551776886,\"文化教育哲学宗教\":0.08567137271165848,\"文学艺术\":0.12885884940624237,\"军事\":0.19620996713638306}"
+          },
+          {
+            "field": "keyframepath",
+            "value": "\\\\172.0.0.242\\73\\hivefiles\\sobeyhive\\bucket-k\\u-yb02r5p5utj1lxp3\\2019\\09\\30\\e620b163b7964c9aa6064f89b0ab1bd1_videogroup_440_247_22260.jpg"
+          },
+          {
+            "field": "privilege_",
+            "value": "public_S1"
+          },
+          {
+            "field": "eventdate",
+            "value": "五一劳动节"
+          },
+          {
+            "field": "outpoint",
+            "value": "9515200000"
+          },
+          {
+            "field": "contentId_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888"
+          },
+          {
+            "field": "topic",
+            "value": "城乡建设与环境,军事"
+          },
+          {
+            "field": "eventplace",
+            "value": "珠三角工匠精神展示馆,佛山南海,珠三角,珠山,中国,珠海,广东"
+          },
+          {
+            "field": "site_",
+            "value": "S1"
+          },
+          {
+            "field": "type_",
+            "value": "model_sobey_smart_story"
+          },
+          {
+            "field": "distributionMark",
+            "value": "DEFAULT"
+          },
+          {
+            "field": "_version_",
+            "value": "1651885343670009856"
+          },
+          {
+            "field": "score",
+            "value": "1.0"
+          },
+          {
+            "field": "operateCode",
+            "value": "15"
+          }
+        ],
+        "uniqueId": "0e98d9b1a1c24201bbcb0b8837c4c888_a129dac120514f3a960d5a2412100ccb"
+      },
+      {
+        "extensionResults": [],
+        "fieldAndValues": [
+          {
+            "field": "keyframeno",
+            "value": "23876"
+          },
+          {
+            "field": "privilegeUserGroup_",
+            "value": "owner_f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "_identity_",
+            "value": "metadata"
+          },
+          {
+            "field": "framerate",
+            "value": "25"
+          },
+          {
+            "field": "inpoint",
+            "value": "9515200000"
+          },
+          {
+            "field": "title",
+            "value": "是长期性地对工匠精神的传承"
+          },
+          {
+            "field": "metaid_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888_068ac1269f864809a29a0675e5ea1809"
+          },
+          {
+            "field": "guid_",
+            "value": "068ac1269f864809a29a0675e5ea1809"
+          },
+          {
+            "field": "eventorg",
+            "value": "联合国,健康委品会,泰外交部,公安部,石政法院,民政部,高石政法院,泰交部,个安部,外交部,国家可生健康委员会,最高检"
+          },
+          {
+            "field": "lastUpdateDate_",
+            "value": "2019-11-22 18:49:43"
+          },
+          {
+            "field": "createDate_",
+            "value": "2019-09-26 14:21:50"
+          },
+          {
+            "field": "keyword",
+            "value": "天城,高新技术,加快,创新,面积,建设,全国,建立,产品,企业,经济"
+          },
+          {
+            "field": "smartstate",
+            "value": "1"
+          },
+          {
+            "field": "createUser_",
+            "value": "f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "storyid",
+            "value": "c5b77b2c-eea4-43f2-a7b0-e7f270d283dc"
+          },
+          {
+            "field": "system_",
+            "value": "MAM"
+          },
+          {
+            "field": "namespace_",
+            "value": "biz_sobey_video"
+          },
+          {
+            "field": "eventpeople",
+            "value": "阿华,伊明威,材丽融,他信,臧丽,郭华忠"
+          },
+          {
+            "field": "top_topics",
+            "value": "{\"经济\":0.5397393107414246,\"城乡建设与环境\":0.0438309945166111,\"军事\":0.15209557116031647,\"文化教育哲学宗教\":0.19976834952831268,\"娱乐休闲\":0.05766647681593895}"
+          },
+          {
+            "field": "keyframepath",
+            "value": "\\\\172.0.0.242\\73\\hivefiles\\sobeyhive\\bucket-k\\u-yb02r5p5utj1lxp3\\2019\\09\\30\\e620b163b7964c9aa6064f89b0ab1bd1_videogroup_440_247_23876.jpg"
+          },
+          {
+            "field": "privilege_",
+            "value": "public_S1"
+          },
+          {
+            "field": "eventdate",
+            "value": "2016年,2017年,五一"
+          },
+          {
+            "field": "outpoint",
+            "value": "10652800000"
+          },
+          {
+            "field": "contentId_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888"
+          },
+          {
+            "field": "topic",
+            "value": "经济,文化教育哲学宗教"
+          },
+          {
+            "field": "eventplace",
+            "value": "广东,珠三角,中国,意天利,意关莉,朝鲜,伊朗,日本,湾花莲东部,泰国,魏三角,球三角,南海区,江苏,佛山"
+          },
+          {
+            "field": "site_",
+            "value": "S1"
+          },
+          {
+            "field": "type_",
+            "value": "model_sobey_smart_story"
+          },
+          {
+            "field": "distributionMark",
+            "value": "DEFAULT"
+          },
+          {
+            "field": "_version_",
+            "value": "1651885343673155584"
+          },
+          {
+            "field": "score",
+            "value": "1.0"
+          },
+          {
+            "field": "operateCode",
+            "value": "15"
+          }
+        ],
+        "uniqueId": "0e98d9b1a1c24201bbcb0b8837c4c888_068ac1269f864809a29a0675e5ea1809"
+      },
+      {
+        "extensionResults": [],
+        "fieldAndValues": [
+          {
+            "field": "keyframeno",
+            "value": "26664"
+          },
+          {
+            "field": "privilegeUserGroup_",
+            "value": "owner_f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "_identity_",
+            "value": "metadata"
+          },
+          {
+            "field": "framerate",
+            "value": "25"
+          },
+          {
+            "field": "inpoint",
+            "value": "10652800000"
+          },
+          {
+            "field": "title",
+            "value": "[无标题]"
+          },
+          {
+            "field": "metaid_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888_1855291f3ad6420b9f5d3607c9be7cff"
+          },
+          {
+            "field": "guid_",
+            "value": "1855291f3ad6420b9f5d3607c9be7cff"
+          },
+          {
+            "field": "eventorg",
+            "value": "泰外交部,泰乐交部"
+          },
+          {
+            "field": "lastUpdateDate_",
+            "value": "2019-11-22 18:49:43"
+          },
+          {
+            "field": "createDate_",
+            "value": "2019-09-26 14:21:50"
+          },
+          {
+            "field": "keyword",
+            "value": "智能,转型,升级,报道,推进"
+          },
+          {
+            "field": "smartstate",
+            "value": "1"
+          },
+          {
+            "field": "createUser_",
+            "value": "f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "storyid",
+            "value": "3c5bead5-4c43-4d27-aec7-2ceaa6cfabea"
+          },
+          {
+            "field": "system_",
+            "value": "MAM"
+          },
+          {
+            "field": "namespace_",
+            "value": "biz_sobey_video"
+          },
+          {
+            "field": "eventpeople",
+            "value": "王秀娟(广东台记者)"
+          },
+          {
+            "field": "top_topics",
+            "value": "{\"政治\":0.24329206347465515,\"经济\":0.46190840005874634,\"城乡建设与环境\":0.014068006537854671,\"社会生活与社会问题\":0.014068006537854671,\"军事\":0.19632351584732533}"
+          },
+          {
+            "field": "keyframepath",
+            "value": "\\\\172.0.0.242\\73\\hivefiles\\sobeyhive\\bucket-k\\u-yb02r5p5utj1lxp3\\2019\\09\\30\\e620b163b7964c9aa6064f89b0ab1bd1_videogroup_440_247_26664.jpg"
+          },
+          {
+            "field": "privilege_",
+            "value": "public_S1"
+          },
+          {
+            "field": "eventdate",
+            "value": ""
+          },
+          {
+            "field": "outpoint",
+            "value": "10716800000"
+          },
+          {
+            "field": "contentId_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888"
+          },
+          {
+            "field": "topic",
+            "value": "经济,政治"
+          },
+          {
+            "field": "eventplace",
+            "value": "广东,日本大阪环球影城,广京"
+          },
+          {
+            "field": "site_",
+            "value": "S1"
+          },
+          {
+            "field": "type_",
+            "value": "model_sobey_smart_story"
+          },
+          {
+            "field": "distributionMark",
+            "value": "DEFAULT"
+          },
+          {
+            "field": "_version_",
+            "value": "1651885343677349888"
+          },
+          {
+            "field": "score",
+            "value": "1.0"
+          },
+          {
+            "field": "operateCode",
+            "value": "15"
+          }
+        ],
+        "uniqueId": "0e98d9b1a1c24201bbcb0b8837c4c888_1855291f3ad6420b9f5d3607c9be7cff"
+      },
+      {
+        "extensionResults": [],
+        "fieldAndValues": [
+          {
+            "field": "keyframeno",
+            "value": "27050"
+          },
+          {
+            "field": "privilegeUserGroup_",
+            "value": "owner_f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "_identity_",
+            "value": "metadata"
+          },
+          {
+            "field": "framerate",
+            "value": "25"
+          },
+          {
+            "field": "inpoint",
+            "value": "10716800000"
+          },
+          {
+            "field": "title",
+            "value": "话通画聪通"
+          },
+          {
+            "field": "metaid_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888_db092ba649b6418b81b54eac54a289cf"
+          },
+          {
+            "field": "guid_",
+            "value": "db092ba649b6418b81b54eac54a289cf"
+          },
+          {
+            "field": "eventorg",
+            "value": "篮管局,广安实盛管局,广东省安全监管局"
+          },
+          {
+            "field": "lastUpdateDate_",
+            "value": "2019-11-22 18:49:43"
+          },
+          {
+            "field": "createDate_",
+            "value": "2019-09-26 14:21:50"
+          },
+          {
+            "field": "keyword",
+            "value": "端午,入选,剧团,活力,女孩,名叫,艺术"
+          },
+          {
+            "field": "smartstate",
+            "value": "1"
+          },
+          {
+            "field": "createUser_",
+            "value": "f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "storyid",
+            "value": "0073e0f1-d729-45b0-8333-a7cddb826cd0"
+          },
+          {
+            "field": "system_",
+            "value": "MAM"
+          },
+          {
+            "field": "namespace_",
+            "value": "biz_sobey_video"
+          },
+          {
+            "field": "eventpeople",
+            "value": "张思曦,张世新"
+          },
+          {
+            "field": "top_topics",
+            "value": "{\"经济\":0.011411364423111081,\"政治\":0.08041887660510838,\"医药卫生\":0.11072949995286763,\"文学艺术\":0.6426628828048706,\"娱乐休闲\":0.09772055968642235}"
+          },
+          {
+            "field": "keyframepath",
+            "value": "\\\\172.0.0.242\\73\\hivefiles\\sobeyhive\\bucket-k\\u-yb02r5p5utj1lxp3\\2019\\09\\30\\e620b163b7964c9aa6064f89b0ab1bd1_videogroup_440_247_27050.jpg"
+          },
+          {
+            "field": "privilege_",
+            "value": "public_S1"
+          },
+          {
+            "field": "eventdate",
+            "value": "五一,端午"
+          },
+          {
+            "field": "outpoint",
+            "value": "11051200000"
+          },
+          {
+            "field": "contentId_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888"
+          },
+          {
+            "field": "topic",
+            "value": "文学艺术,医药卫生"
+          },
+          {
+            "field": "eventplace",
+            "value": "汕尾陆丰,日本天阪,广东"
+          },
+          {
+            "field": "site_",
+            "value": "S1"
+          },
+          {
+            "field": "type_",
+            "value": "model_sobey_smart_story"
+          },
+          {
+            "field": "distributionMark",
+            "value": "DEFAULT"
+          },
+          {
+            "field": "_version_",
+            "value": "1651885343681544192"
+          },
+          {
+            "field": "score",
+            "value": "1.0"
+          },
+          {
+            "field": "operateCode",
+            "value": "15"
+          }
+        ],
+        "uniqueId": "0e98d9b1a1c24201bbcb0b8837c4c888_db092ba649b6418b81b54eac54a289cf"
+      },
+      {
+        "extensionResults": [],
+        "fieldAndValues": [
+          {
+            "field": "keyframeno",
+            "value": "27702"
+          },
+          {
+            "field": "privilegeUserGroup_",
+            "value": "owner_f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "_identity_",
+            "value": "metadata"
+          },
+          {
+            "field": "framerate",
+            "value": "25"
+          },
+          {
+            "field": "inpoint",
+            "value": "11051200000"
+          },
+          {
+            "field": "title",
+            "value": "张斯熙湎尾陆丰皮影传承保护中心演员"
+          },
+          {
+            "field": "metaid_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888_b1e7e8dc55b8445ea68275d5d5e435f6"
+          },
+          {
+            "field": "guid_",
+            "value": "b1e7e8dc55b8445ea68275d5d5e435f6"
+          },
+          {
+            "field": "lastUpdateDate_",
+            "value": "2019-11-22 18:49:43"
+          },
+          {
+            "field": "createDate_",
+            "value": "2019-09-26 14:21:50"
+          },
+          {
+            "field": "keyword",
+            "value": "皮影,临摹,雕刻,制作"
+          },
+          {
+            "field": "smartstate",
+            "value": "1"
+          },
+          {
+            "field": "createUser_",
+            "value": "f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "storyid",
+            "value": "4b20f05a-8001-412c-b1fb-01c72d87b3c9"
+          },
+          {
+            "field": "system_",
+            "value": "MAM"
+          },
+          {
+            "field": "namespace_",
+            "value": "biz_sobey_video"
+          },
+          {
+            "field": "top_topics",
+            "value": "{\"政治\":0.00717505905777216,\"经济\":0.03288760036230087,\"城乡建设与环境\":0.00717505905777216,\"文学艺术\":0.6145734190940857,\"娱乐休闲\":0.30231356620788574}"
+          },
+          {
+            "field": "keyframepath",
+            "value": "\\\\172.0.0.242\\73\\hivefiles\\sobeyhive\\bucket-k\\u-yb02r5p5utj1lxp3\\2019\\09\\30\\e620b163b7964c9aa6064f89b0ab1bd1_videogroup_440_247_27702.jpg"
+          },
+          {
+            "field": "privilege_",
+            "value": "public_S1"
+          },
+          {
+            "field": "outpoint",
+            "value": "11291200000"
+          },
+          {
+            "field": "contentId_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888"
+          },
+          {
+            "field": "topic",
+            "value": "文学艺术,娱乐休闲"
+          },
+          {
+            "field": "site_",
+            "value": "S1"
+          },
+          {
+            "field": "type_",
+            "value": "model_sobey_smart_story"
+          },
+          {
+            "field": "distributionMark",
+            "value": "DEFAULT"
+          },
+          {
+            "field": "_version_",
+            "value": "1651885343686787072"
+          },
+          {
+            "field": "score",
+            "value": "1.0"
+          },
+          {
+            "field": "operateCode",
+            "value": "15"
+          }
+        ],
+        "uniqueId": "0e98d9b1a1c24201bbcb0b8837c4c888_b1e7e8dc55b8445ea68275d5d5e435f6"
+      },
+      {
+        "extensionResults": [],
+        "fieldAndValues": [
+          {
+            "field": "keyframeno",
+            "value": "28262"
+          },
+          {
+            "field": "privilegeUserGroup_",
+            "value": "owner_f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "_identity_",
+            "value": "metadata"
+          },
+          {
+            "field": "framerate",
+            "value": "25"
+          },
+          {
+            "field": "inpoint",
+            "value": "11291200000"
+          },
+          {
+            "field": "title",
+            "value": "90后女孩张斯熙：华丽油彩下的皮影传承"
+          },
+          {
+            "field": "metaid_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888_2fe6c1dc9aa9481ea6eb10f870b45b0b"
+          },
+          {
+            "field": "guid_",
+            "value": "2fe6c1dc9aa9481ea6eb10f870b45b0b"
+          },
+          {
+            "field": "eventorg",
+            "value": "汕尾台,广东纪检监察,省食药监局"
+          },
+          {
+            "field": "lastUpdateDate_",
+            "value": "2019-11-22 18:49:43"
+          },
+          {
+            "field": "createDate_",
+            "value": "2019-09-26 14:21:50"
+          },
+          {
+            "field": "keyword",
+            "value": "下东新闻联播,展览,艺术家,精彩,表演,演出,制作,艺术,国际"
+          },
+          {
+            "field": "smartstate",
+            "value": "1"
+          },
+          {
+            "field": "createUser_",
+            "value": "f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "storyid",
+            "value": "c5211e27-c551-4ed6-a443-e7cc3fd10720"
+          },
+          {
+            "field": "system_",
+            "value": "MAM"
+          },
+          {
+            "field": "namespace_",
+            "value": "biz_sobey_video"
+          },
+          {
+            "field": "eventpeople",
+            "value": "张思兮,王流,关石五,石阳合"
+          },
+          {
+            "field": "top_topics",
+            "value": "{\"城乡建设与环境\":0.0603322871029377,\"体育\":0.0191629808396101,\"军事\":0.11132847517728806,\"文学艺术\":0.6116108298301697,\"娱乐休闲\":0.17210283875465393}"
+          },
+          {
+            "field": "keyframepath",
+            "value": "\\\\172.0.0.242\\73\\hivefiles\\sobeyhive\\bucket-k\\u-yb02r5p5utj1lxp3\\2019\\09\\30\\e620b163b7964c9aa6064f89b0ab1bd1_videogroup_440_247_28262.jpg"
+          },
+          {
+            "field": "privilege_",
+            "value": "public_S1"
+          },
+          {
+            "field": "eventdate",
+            "value": ""
+          },
+          {
+            "field": "outpoint",
+            "value": "12398400000"
+          },
+          {
+            "field": "contentId_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888"
+          },
+          {
+            "field": "topic",
+            "value": "文学艺术,娱乐休闲"
+          },
+          {
+            "field": "eventplace",
+            "value": "重州,广东,汕尾,阿合,广东涪,丽合,广东智"
+          },
+          {
+            "field": "site_",
+            "value": "S1"
+          },
+          {
+            "field": "type_",
+            "value": "model_sobey_smart_story"
+          },
+          {
+            "field": "distributionMark",
+            "value": "DEFAULT"
+          },
+          {
+            "field": "_version_",
+            "value": "1651885343690981376"
+          },
+          {
+            "field": "score",
+            "value": "1.0"
+          },
+          {
+            "field": "operateCode",
+            "value": "15"
+          }
+        ],
+        "uniqueId": "0e98d9b1a1c24201bbcb0b8837c4c888_2fe6c1dc9aa9481ea6eb10f870b45b0b"
+      },
+      {
+        "extensionResults": [],
+        "fieldAndValues": [
+          {
+            "field": "keyframeno",
+            "value": "31130"
+          },
+          {
+            "field": "privilegeUserGroup_",
+            "value": "owner_f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "_identity_",
+            "value": "metadata"
+          },
+          {
+            "field": "framerate",
+            "value": "25"
+          },
+          {
+            "field": "inpoint",
+            "value": "12398400000"
+          },
+          {
+            "field": "title",
+            "value": "[无标题]"
+          },
+          {
+            "field": "metaid_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888_792c1a27af0c4a0ba3d0639c85cae3ee"
+          },
+          {
+            "field": "guid_",
+            "value": "792c1a27af0c4a0ba3d0639c85cae3ee"
+          },
+          {
+            "field": "eventorg",
+            "value": "汕尾台,广东广播电视台"
+          },
+          {
+            "field": "lastUpdateDate_",
+            "value": "2019-11-22 18:49:43"
+          },
+          {
+            "field": "createDate_",
+            "value": "2019-09-26 14:21:50"
+          },
+          {
+            "field": "keyword",
+            "value": "电视,仪式,广东,报道"
+          },
+          {
+            "field": "smartstate",
+            "value": "1"
+          },
+          {
+            "field": "createUser_",
+            "value": "f8728b97a64a4a36b5b09d1738a6a6af"
+          },
+          {
+            "field": "storyid",
+            "value": "71675c27-ff2d-4e8f-93a5-89a224c26828"
+          },
+          {
+            "field": "system_",
+            "value": "MAM"
+          },
+          {
+            "field": "namespace_",
+            "value": "biz_sobey_video"
+          },
+          {
+            "field": "eventpeople",
+            "value": ""
+          },
+          {
+            "field": "top_topics",
+            "value": "{\"政治\":0.009370463900268078,\"经济\":0.13120262324810028,\"医药卫生\":0.04121397063136101,\"军事\":0.013446765951812267,\"文化教育哲学宗教\":0.7579138875007629}"
+          },
+          {
+            "field": "keyframepath",
+            "value": "\\\\172.0.0.242\\73\\hivefiles\\sobeyhive\\bucket-k\\u-yb02r5p5utj1lxp3\\2019\\09\\30\\e620b163b7964c9aa6064f89b0ab1bd1_videogroup_440_247_31130.jpg"
+          },
+          {
+            "field": "privilege_",
+            "value": "public_S1"
+          },
+          {
+            "field": "eventdate",
+            "value": ""
+          },
+          {
+            "field": "outpoint",
+            "value": "12505600000"
+          },
+          {
+            "field": "contentId_",
+            "value": "0e98d9b1a1c24201bbcb0b8837c4c888"
+          },
+          {
+            "field": "topic",
+            "value": "文化教育哲学宗教,经济"
+          },
+          {
+            "field": "eventplace",
+            "value": "广东"
+          },
+          {
+            "field": "site_",
+            "value": "S1"
+          },
+          {
+            "field": "type_",
+            "value": "model_sobey_smart_story"
+          },
+          {
+            "field": "distributionMark",
+            "value": "DEFAULT"
+          },
+          {
+            "field": "_version_",
+            "value": "1651885343696224256"
+          },
+          {
+            "field": "score",
+            "value": "1.0"
+          },
+          {
+            "field": "operateCode",
+            "value": "15"
+          }
+        ],
+        "uniqueId": "0e98d9b1a1c24201bbcb0b8837c4c888_792c1a27af0c4a0ba3d0639c85cae3ee"
+      }
+    ],
+    "totalCount": 35274,
+    "totalPage": 1764
+  },
+  "sortFields": [
+    "createDate_",
+    "name_",
+    "inpoint",
+    "lastUpdateDate_"
+  ],
+  "usedTime": 23
+}
